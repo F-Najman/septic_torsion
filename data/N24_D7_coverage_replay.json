@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "tested": 4132,
+  "coverage": {
+    "(3,)": 4,
+    "(4,)": 32,
+    "(5,)": 168,
+    "(6,)": 684,
+    "(7,)": 2796,
+    "(3, 3)": 64,
+    "(3, 4)": 384
+  },
+  "support_passes": {
+    "(3,)": 0,
+    "(4,)": 0,
+    "(5,)": 0,
+    "(6,)": 2,
+    "(7,)": 0,
+    "(3, 3)": 0,
+    "(3, 4)": 0
+  },
+  "distinct_rational_classes": 16,
+  "known_reducible_classes": 16,
+  "unresolved_classes": 0,
+  "source_sha256": "25991d3027ff1a964f8525e187f9151e3439f8758772e909ac775b88a7ffcd0e"
+}

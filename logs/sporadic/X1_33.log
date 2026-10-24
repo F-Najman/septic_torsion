@@ -1,0 +1,44 @@
+Loading "work/degree7/small_cyclic/probe_33_class2.m"
+C33_F2_JORDER 635604750 [ <2, 1>, <3, 2>, <5, 3>, <11, 1>, <61, 1>, <421, 1> ]
+0.570
+C33_F2_SETUP [ 5, 2, 2, 1, 10, 2, 1, 1, 1, 1, 1, 1, 2, 1, 5, 1, 1, 2 ]
+[ 10, 10, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2 ]
+9.510
+C33_F2_CLASS_GROUPS [ 15, 42373650, 0 ]
+[ 5, 42373650 ]
+207.910
+C33_F2_NONCUSP [ 0, 0, 0, 0, 2, 20, 30 ]
+209.490
+C33_F2_PROBE_DONE complete=true 209.500
+Loading "work/degree7/small_cyclic/verify_counts_33.m"
+C33_FROBENIUS_COUNTS_VERIFIED noncuspidal [ 0, 0, 0, 0, 2, 20, 30 ]
+all_places [ 10, 5, 0, 0, 4, 20, 30 ]
+Loading "work/degree7/small_cyclic/class_33_degree7_continuation.m"
+C33_DEGREE7_Q_EFFECTIVE 25100 25100 209.540
+C33_DEGREE7_ALL_CUSPIDAL 25220 25220 209.590
+C33_DEGREE7_ALL_CUSPIDAL_CANDIDATES 0 209.620
+C33_DEGREE7_COMPLEMENTS 0 1 1 209.620
+C33_DEGREE7_COMPLEMENTS 1 10 10 209.620
+C33_DEGREE7_COMPLEMENTS 2 60 60 209.620
+C33_DEGREE7_NONCUSP_TYPE 5 2 120 0 0 0 209.630
+C33_DEGREE7_NONCUSP_TYPE 6 20 200 0 0 0 209.630
+C33_DEGREE7_NONCUSP_TYPE 7 30 30 10 0 10 209.630
+C33_DEGREE7_CANDIDATES [
+    [ 6, 39619366, 0 ],
+    [ 0, 28974201, 0 ],
+    [ 0, 41236726, 0 ],
+    [ 6, 7428141, 0 ],
+    [ 12, 38945356, 0 ],
+    [ 9, 26483686, 0 ],
+    [ 3, 14583621, 0 ],
+    [ 3, 4703146, 0 ],
+    [ 9, 23380311, 0 ],
+    [ 12, 27186081, 0 ]
+]
+C33_DEGREE7_KNOWN_ORBIT 10 10 remaining_unknown 0 209.670
+C33_DEGREE7_CLASS_COMPARISON_DONE candidates=10 known_classes=10 unknown_classes=0 complete=true time=209.680
+Loading "work/degree7/small_cyclic/verify_known_33.m"
+C33_KNOWN_GLOBAL_REDUCTION 5 3 132 132
+C33_KNOWN_GLOBAL_REDUCTION 13 7 62752635 33
+C33_KNOWN_GLOBAL_MODEL_DONE field_degree=7 exact_point_order=33 full_torsion=33 complete=true
+C33_SEPTIMIC_COMPLETENESS_DONE classes=10 unknown=0 full_torsion=33 complete=true 209.710

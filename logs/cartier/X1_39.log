@@ -1,0 +1,145 @@
+RANK0_CARTIER_SETUP N=39 D=7 genus=33 direct_AF_model=true time=8.720
+RANK0_CARTIER_FORMS N=39 image_dimension=31 time=9.760
+Y63_ALL_CUSPS pole_degree=672 signature={* 1^^12, 2^^6, 12^^2 *} time=38.870
+RANK0_CARTIER_CUSPS N=39 signature={* 1^^12, 2^^6 *} time=38.890
+RANK0_CARTIER_COUNT N=39 total=66348 time=40.300
+RANK0_CARTIER_JET_START N=39 cusp=1/18 degree=1 reference_order=4 precision=9 time=40.340
+RANK0_CARTIER_COMPLETION N=39 cusp=1 time=40.340
+RANK0_CARTIER_EXPANDED N=39 cusp=1 sufficient_precision=true time=40.540
+RANK0_CARTIER_JET N=39 cusp=1/18 degree=1 reference_order=4 time=40.540
+RANK0_CARTIER_JET_START N=39 cusp=2/18 degree=2 reference_order=2 precision=5 time=40.570
+RANK0_CARTIER_COMPLETION N=39 cusp=2 time=40.580
+RANK0_CARTIER_EXPANDED N=39 cusp=2 sufficient_precision=true time=51.070
+RANK0_CARTIER_JET N=39 cusp=2/18 degree=2 reference_order=2 time=51.070
+RANK0_CARTIER_JET_START N=39 cusp=3/18 degree=1 reference_order=8 precision=9 time=51.100
+RANK0_CARTIER_COMPLETION N=39 cusp=3 time=51.110
+RANK0_CARTIER_EXPANDED N=39 cusp=3 sufficient_precision=true time=65.170
+RANK0_CARTIER_JET N=39 cusp=3/18 degree=1 reference_order=8 time=65.180
+RANK0_CARTIER_JET_START N=39 cusp=4/18 degree=1 reference_order=0 precision=9 time=65.210
+RANK0_CARTIER_COMPLETION N=39 cusp=4 time=65.220
+RANK0_CARTIER_EXPANDED N=39 cusp=4 sufficient_precision=true time=66.120
+RANK0_CARTIER_JET N=39 cusp=4/18 degree=1 reference_order=0 time=66.120
+RANK0_CARTIER_JET_START N=39 cusp=5/18 degree=1 reference_order=0 precision=9 time=66.150
+RANK0_CARTIER_COMPLETION N=39 cusp=5 time=66.160
+RANK0_CARTIER_EXPANDED N=39 cusp=5 sufficient_precision=true time=67.520
+RANK0_CARTIER_JET N=39 cusp=5/18 degree=1 reference_order=0 time=67.530
+RANK0_CARTIER_JET_START N=39 cusp=6/18 degree=2 reference_order=0 precision=5 time=67.550
+RANK0_CARTIER_COMPLETION N=39 cusp=6 time=67.550
+RANK0_CARTIER_EXPANDED N=39 cusp=6 sufficient_precision=true time=70.460
+RANK0_CARTIER_JET N=39 cusp=6/18 degree=2 reference_order=0 time=70.460
+RANK0_CARTIER_JET_START N=39 cusp=7/18 degree=2 reference_order=2 precision=5 time=70.490
+RANK0_CARTIER_COMPLETION N=39 cusp=7 time=70.500
+RANK0_CARTIER_EXPANDED N=39 cusp=7 sufficient_precision=true time=73.190
+RANK0_CARTIER_JET N=39 cusp=7/18 degree=2 reference_order=2 time=73.190
+RANK0_CARTIER_JET_START N=39 cusp=8/18 degree=1 reference_order=6 precision=9 time=73.240
+RANK0_CARTIER_COMPLETION N=39 cusp=8 time=73.240
+RANK0_CARTIER_EXPANDED N=39 cusp=8 sufficient_precision=true time=77.970
+RANK0_CARTIER_JET N=39 cusp=8/18 degree=1 reference_order=6 time=77.970
+RANK0_CARTIER_JET_START N=39 cusp=9/18 degree=1 reference_order=4 precision=9 time=78.000
+RANK0_CARTIER_COMPLETION N=39 cusp=9 time=78.000
+RANK0_CARTIER_EXPANDED N=39 cusp=9 sufficient_precision=true time=84.230
+RANK0_CARTIER_JET N=39 cusp=9/18 degree=1 reference_order=4 time=84.230
+RANK0_CARTIER_JET_START N=39 cusp=10/18 degree=1 reference_order=-2 precision=11 time=85.150
+RANK0_CARTIER_COMPLETION N=39 cusp=10 time=85.190
+RANK0_CARTIER_EXPANDED N=39 cusp=10 sufficient_precision=true time=121.850
+RANK0_CARTIER_JET N=39 cusp=10/18 degree=1 reference_order=-2 time=121.850
+RANK0_CARTIER_JET_START N=39 cusp=11/18 degree=1 reference_order=-2 precision=11 time=122.270
+RANK0_CARTIER_COMPLETION N=39 cusp=11 time=122.310
+RANK0_CARTIER_EXPANDED N=39 cusp=11 sufficient_precision=true time=158.780
+RANK0_CARTIER_JET N=39 cusp=11/18 degree=1 reference_order=-2 time=158.780
+RANK0_CARTIER_JET_START N=39 cusp=12/18 degree=1 reference_order=-2 precision=11 time=160.170
+RANK0_CARTIER_COMPLETION N=39 cusp=12 time=160.220
+RANK0_CARTIER_EXPANDED N=39 cusp=12 sufficient_precision=true time=197.210
+RANK0_CARTIER_JET N=39 cusp=12/18 degree=1 reference_order=-2 time=197.210
+RANK0_CARTIER_JET_START N=39 cusp=13/18 degree=2 reference_order=-2 precision=7 time=198.120
+RANK0_CARTIER_COMPLETION N=39 cusp=13 time=198.160
+RANK0_CARTIER_EXPANDED N=39 cusp=13 sufficient_precision=true time=367.820
+RANK0_CARTIER_JET N=39 cusp=13/18 degree=2 reference_order=-2 time=367.820
+RANK0_CARTIER_JET_START N=39 cusp=14/18 degree=2 reference_order=-2 precision=7 time=368.770
+RANK0_CARTIER_COMPLETION N=39 cusp=14 time=368.800
+RANK0_CARTIER_EXPANDED N=39 cusp=14 sufficient_precision=true time=474.360
+RANK0_CARTIER_JET N=39 cusp=14/18 degree=2 reference_order=-2 time=474.360
+RANK0_CARTIER_JET_START N=39 cusp=15/18 degree=2 reference_order=-2 precision=7 time=475.680
+RANK0_CARTIER_COMPLETION N=39 cusp=15 time=475.720
+RANK0_CARTIER_EXPANDED N=39 cusp=15 sufficient_precision=true time=644.330
+RANK0_CARTIER_JET N=39 cusp=15/18 degree=2 reference_order=-2 time=644.330
+RANK0_CARTIER_JET_START N=39 cusp=16/18 degree=1 reference_order=0 precision=9 time=645.800
+RANK0_CARTIER_COMPLETION N=39 cusp=16 time=645.840
+RANK0_CARTIER_EXPANDED N=39 cusp=16 sufficient_precision=true time=695.510
+RANK0_CARTIER_JET N=39 cusp=16/18 degree=1 reference_order=0 time=695.510
+RANK0_CARTIER_JET_START N=39 cusp=17/18 degree=1 reference_order=18 precision=9 time=699.660
+RANK0_CARTIER_COMPLETION N=39 cusp=17 time=699.700
+RANK0_CARTIER_EXPANDED N=39 cusp=17 sufficient_precision=true time=763.560
+RANK0_CARTIER_JET N=39 cusp=17/18 degree=1 reference_order=18 time=763.560
+RANK0_CARTIER_JET_START N=39 cusp=18/18 degree=1 reference_order=-2 precision=11 time=763.680
+RANK0_CARTIER_COMPLETION N=39 cusp=18 time=763.690
+RANK0_CARTIER_EXPANDED N=39 cusp=18 sufficient_precision=true time=780.600
+RANK0_CARTIER_JET N=39 cusp=18/18 degree=1 reference_order=-2 time=780.600
+RANK0_CARTIER_DIRECT N=39 index=1 jet_rank=7 direct_rank=7 time=826.130
+RANK0_CARTIER_PROGRESS N=39 tested=1000 total=66348 exceptions=0 time=826.140
+RANK0_CARTIER_PROGRESS N=39 tested=2000 total=66348 exceptions=0 time=826.150
+RANK0_CARTIER_PROGRESS N=39 tested=3000 total=66348 exceptions=0 time=826.160
+RANK0_CARTIER_PROGRESS N=39 tested=4000 total=66348 exceptions=0 time=826.170
+RANK0_CARTIER_PROGRESS N=39 tested=5000 total=66348 exceptions=0 time=826.180
+RANK0_CARTIER_PROGRESS N=39 tested=6000 total=66348 exceptions=0 time=826.190
+RANK0_CARTIER_PROGRESS N=39 tested=7000 total=66348 exceptions=0 time=826.200
+RANK0_CARTIER_PROGRESS N=39 tested=8000 total=66348 exceptions=0 time=826.210
+RANK0_CARTIER_PROGRESS N=39 tested=9000 total=66348 exceptions=0 time=826.220
+RANK0_CARTIER_PROGRESS N=39 tested=10000 total=66348 exceptions=0 time=826.230
+RANK0_CARTIER_PROGRESS N=39 tested=11000 total=66348 exceptions=0 time=826.240
+RANK0_CARTIER_PROGRESS N=39 tested=12000 total=66348 exceptions=0 time=826.250
+RANK0_CARTIER_PROGRESS N=39 tested=13000 total=66348 exceptions=0 time=826.260
+RANK0_CARTIER_PROGRESS N=39 tested=14000 total=66348 exceptions=0 time=826.270
+RANK0_CARTIER_PROGRESS N=39 tested=15000 total=66348 exceptions=0 time=826.280
+RANK0_CARTIER_PROGRESS N=39 tested=16000 total=66348 exceptions=0 time=826.290
+RANK0_CARTIER_PROGRESS N=39 tested=17000 total=66348 exceptions=0 time=826.300
+RANK0_CARTIER_PROGRESS N=39 tested=18000 total=66348 exceptions=0 time=826.310
+RANK0_CARTIER_PROGRESS N=39 tested=19000 total=66348 exceptions=0 time=826.320
+RANK0_CARTIER_PROGRESS N=39 tested=20000 total=66348 exceptions=0 time=826.330
+RANK0_CARTIER_PROGRESS N=39 tested=21000 total=66348 exceptions=0 time=826.340
+RANK0_CARTIER_PROGRESS N=39 tested=22000 total=66348 exceptions=0 time=826.350
+RANK0_CARTIER_PROGRESS N=39 tested=23000 total=66348 exceptions=0 time=826.360
+RANK0_CARTIER_PROGRESS N=39 tested=24000 total=66348 exceptions=0 time=826.370
+RANK0_CARTIER_PROGRESS N=39 tested=25000 total=66348 exceptions=0 time=826.380
+RANK0_CARTIER_PROGRESS N=39 tested=26000 total=66348 exceptions=0 time=826.390
+RANK0_CARTIER_PROGRESS N=39 tested=27000 total=66348 exceptions=0 time=826.400
+RANK0_CARTIER_PROGRESS N=39 tested=28000 total=66348 exceptions=0 time=826.410
+RANK0_CARTIER_PROGRESS N=39 tested=29000 total=66348 exceptions=0 time=826.430
+RANK0_CARTIER_PROGRESS N=39 tested=30000 total=66348 exceptions=0 time=826.440
+RANK0_CARTIER_PROGRESS N=39 tested=31000 total=66348 exceptions=0 time=826.450
+RANK0_CARTIER_PROGRESS N=39 tested=32000 total=66348 exceptions=0 time=826.460
+RANK0_CARTIER_PROGRESS N=39 tested=33000 total=66348 exceptions=0 time=826.470
+RANK0_CARTIER_PROGRESS N=39 tested=34000 total=66348 exceptions=0 time=826.480
+RANK0_CARTIER_PROGRESS N=39 tested=35000 total=66348 exceptions=0 time=826.490
+RANK0_CARTIER_PROGRESS N=39 tested=36000 total=66348 exceptions=0 time=826.500
+RANK0_CARTIER_PROGRESS N=39 tested=37000 total=66348 exceptions=0 time=826.510
+RANK0_CARTIER_PROGRESS N=39 tested=38000 total=66348 exceptions=0 time=826.520
+RANK0_CARTIER_PROGRESS N=39 tested=39000 total=66348 exceptions=0 time=826.530
+RANK0_CARTIER_PROGRESS N=39 tested=40000 total=66348 exceptions=0 time=826.550
+RANK0_CARTIER_PROGRESS N=39 tested=41000 total=66348 exceptions=0 time=826.550
+RANK0_CARTIER_PROGRESS N=39 tested=42000 total=66348 exceptions=0 time=826.560
+RANK0_CARTIER_PROGRESS N=39 tested=43000 total=66348 exceptions=0 time=826.570
+RANK0_CARTIER_PROGRESS N=39 tested=44000 total=66348 exceptions=0 time=826.580
+RANK0_CARTIER_PROGRESS N=39 tested=45000 total=66348 exceptions=0 time=826.590
+RANK0_CARTIER_PROGRESS N=39 tested=46000 total=66348 exceptions=0 time=826.600
+RANK0_CARTIER_PROGRESS N=39 tested=47000 total=66348 exceptions=0 time=826.610
+RANK0_CARTIER_PROGRESS N=39 tested=48000 total=66348 exceptions=0 time=826.620
+RANK0_CARTIER_PROGRESS N=39 tested=49000 total=66348 exceptions=0 time=826.620
+RANK0_CARTIER_PROGRESS N=39 tested=50000 total=66348 exceptions=0 time=826.630
+RANK0_CARTIER_PROGRESS N=39 tested=51000 total=66348 exceptions=0 time=826.640
+RANK0_CARTIER_PROGRESS N=39 tested=52000 total=66348 exceptions=0 time=826.650
+RANK0_CARTIER_PROGRESS N=39 tested=53000 total=66348 exceptions=0 time=826.670
+RANK0_CARTIER_PROGRESS N=39 tested=54000 total=66348 exceptions=0 time=826.680
+RANK0_CARTIER_PROGRESS N=39 tested=55000 total=66348 exceptions=0 time=826.690
+RANK0_CARTIER_PROGRESS N=39 tested=56000 total=66348 exceptions=0 time=826.700
+RANK0_CARTIER_PROGRESS N=39 tested=57000 total=66348 exceptions=0 time=826.710
+RANK0_CARTIER_PROGRESS N=39 tested=58000 total=66348 exceptions=0 time=826.720
+RANK0_CARTIER_PROGRESS N=39 tested=59000 total=66348 exceptions=0 time=826.730
+RANK0_CARTIER_PROGRESS N=39 tested=60000 total=66348 exceptions=0 time=826.740
+RANK0_CARTIER_PROGRESS N=39 tested=61000 total=66348 exceptions=0 time=826.750
+RANK0_CARTIER_PROGRESS N=39 tested=62000 total=66348 exceptions=0 time=826.760
+RANK0_CARTIER_PROGRESS N=39 tested=63000 total=66348 exceptions=0 time=826.770
+RANK0_CARTIER_PROGRESS N=39 tested=64000 total=66348 exceptions=0 time=826.790
+RANK0_CARTIER_PROGRESS N=39 tested=65000 total=66348 exceptions=0 time=826.800
+RANK0_CARTIER_PROGRESS N=39 tested=66000 total=66348 exceptions=0 time=826.810
+RANK0_CARTIER_DONE N=39 D=7 tested=66348 total=66348 exceptions=0 complete=true time=826.840

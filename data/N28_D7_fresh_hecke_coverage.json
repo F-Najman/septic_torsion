@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "prime": 3,
+  "level": 28,
+  "degree": 7,
+  "complete_lower_cases": {
+    "5": 8,
+    "6": 16
+  },
+  "fresh_degree_seven_cases": 52,
+  "total": 76,
+  "remaining": 0,
+  "degree_five_A11_tests": 0,
+  "degree_six_A11_tests": 4,
+  "fresh_degree_seven_A11_tests": 4,
+  "old_interrupted_degree_seven_tail_used": false,
+  "completed_lower_prefix_sha256": "4f7b39aac2045493c432e220f1163b3c2478a0cb210bba480930ea710bed7aad",
+  "fixed_input_sha256": "e7f12586787d17cc0e30717d5ee61bac971a62b676b6d237745a88376249ff23",
+  "shard_source_sha256": "fe04bed64ac31c164cfbfc63a5c4d6941956ccb485fd4109cbd69ca77f4147c5"
+}

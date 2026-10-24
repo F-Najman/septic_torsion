@@ -1,0 +1,19 @@
+C40_CUSP_CORRECTION_MODEL_READY genus=25 p=3 quintic_degree=5 time=18.040
+C40_CUSP_CORRECTION_CUSPS bad_quadratic=4 Q_orbits=2 full_complements=84 Q_liftable=80 signatures=[
+[ -1, 1 ],
+[ 3, -1 ]
+] time=77.280
+C40_CUSP_CORRECTION_POSSIBLE_DIAMONDS sigma=[ 2, 1, 4, 3 ] roots=[
+[ 4, 3, 1, 2 ],
+[ 3, 4, 2, 1 ]
+] time=77.290
+C40_CUSP_CORRECTION_TEST kind=Q_liftable complements=80 principal=false time=91.750
+C40_CUSP_CORRECTION_TEST kind=bad_quadratic cycle=1 cusp=1 principal=false time=101.700
+C40_CUSP_CORRECTION_TEST kind=bad_quadratic cycle=1 cusp=2 principal=false time=117.810
+C40_CUSP_CORRECTION_TEST kind=bad_quadratic cycle=1 cusp=3 principal=false time=134.620
+C40_CUSP_CORRECTION_TEST kind=bad_quadratic cycle=1 cusp=4 principal=false time=146.980
+C40_CUSP_CORRECTION_TEST kind=bad_quadratic cycle=2 cusp=1 principal=false time=157.920
+C40_CUSP_CORRECTION_TEST kind=bad_quadratic cycle=2 cusp=2 principal=false time=166.030
+C40_CUSP_CORRECTION_TEST kind=bad_quadratic cycle=2 cusp=3 principal=false time=183.850
+C40_CUSP_CORRECTION_TEST kind=bad_quadratic cycle=2 cusp=4 principal=false time=195.790
+C40_CUSP_CORRECTION_DONE tests=9 survivors=0 all_complements=84 complete=true time=195.810

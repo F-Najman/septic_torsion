@@ -1,0 +1,26 @@
+SetColumns(0);
+SetMemoryLimit(2500000000);
+AttachSpec("mdmagma/v2/mdmagma.spec");
+Attach("fast_hecke.m");
+Attach("fast_hecke_11_v1.m");
+Attach("fast_hecke_cyclic_commonzero_v1.m");
+t0:=Cputime();X:=MDX1(32,GF(3));
+xs:=NoncuspidalPlaces(X,3);assert #xs gt 0;
+x:=xs[1];print "COMMONZERO_CYCLIC_SETUP",Genus(X),#xs;
+ti:=Cputime();fast:=HeckeOperatorCommonZeros(X,5,x);
+print "COMMONZERO_CYCLIC_NEW",Degree(fast),Cputime(ti);
+ti:=Cputime();reference:=HeckeOperator(X,5,x);
+assert reference eq fast;
+print "COMMONZERO_CYCLIC_REFERENCE_EQUAL",Cputime(ti);
+E:=EllipticCurve(X,x);P:=LevelStructure(X,x)`P;
+for t in MDIsogeniesFast(E,P,5) do
+ EG,PG,e:=Explode(t);xy:=TateNormalForm_xy(EG,PG);
+ F:=FunctionField(Curve(X));
+ y:=MDPlaceCommonZeros([F.1,F.2],xy);
+ assert y eq ModuliPoint(X,EG,rec<recformat<P:PtEll>|P:=PG>);
+ LL:=ext<BaseRing(EG)|2>;
+ assert MDPlaceCommonZeros([F.1,F.2],[LL!v:v in xy]) eq y;
+ print "COMMONZERO_CYCLIC_IMAGE_DESCENT_EQUAL",Degree(BaseRing(EG)),Degree(LL),Degree(y);
+end for;
+print "COMMONZERO_CYCLIC_TEST_DONE",Cputime(t0);
+quit;

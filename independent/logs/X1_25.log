@@ -1,0 +1,11 @@
+genus 12, deg j 300
+base point has exact order 25 over the function field
+cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 10 ]
+noncuspidal place counts [ 0, 0, 0, 0, 1, 5, 10 ] (0.190 s)
+class group [ 227555, 0 ] (1.190 s)
+effective cuspidal degree-7 divisors 11880, classes 11825
+degree-5 place + cuspidal degree-2: 55 divisors, 0 with class outside the cuspidal classes
+residue degrees at 2: sextic { 6 }, septic { 7 }
+sextic places covered by reductions of translates: 5 of 5
+septic places covered by reductions of translates: 10 of 10
+X125_CHECK_DONE (1.860 s)

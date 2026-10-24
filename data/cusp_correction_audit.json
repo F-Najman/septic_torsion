@@ -1,0 +1,20 @@
+{
+  "complete": true,
+  "all_complements": 84,
+  "Q_liftable_complements": 80,
+  "bad_quadratic_cusps": 4,
+  "possible_diamond_cycles": 2,
+  "correction_tests": 9,
+  "correction_survivors": 0,
+  "lower_support_tests": {
+    "degree4": 4,
+    "degree5": 9,
+    "degree6": 10
+  },
+  "fresh_degree7_tests": 51,
+  "unused_old_degree7_prefix": true,
+  "fresh_lower_complete": true,
+  "fresh_correction_complete": true,
+  "fresh_survivor_exactly_equals_fixed_input": true,
+  "original_lower_log_role": "provenance only; fresh commonzero lower-support run is sufficient"
+}

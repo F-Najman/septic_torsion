@@ -1,0 +1,3 @@
+RELATIVE_INFINITY a=0 raw_degrees=[ 1, 1, 2 ] filtered_degrees=[ 1, 1 ]
+RELATIVE_INFINITY a=1 raw_degrees=[ 1, 1, 2 ] filtered_degrees=[ 2 ]
+RELATIVE_INFINITY_REGRESSION_DONE complete=true 0.050

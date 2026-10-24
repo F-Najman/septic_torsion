@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "N": 26,
+  "p": 3,
+  "place_counts_degrees_5_6_7": [
+    36,
+    122,
+    288
+  ],
+  "diamond_representatives_degrees_5_6_7": [
+    6,
+    26,
+    48
+  ],
+  "tested": 80,
+  "finite_J_order": 124501550040000,
+  "rational_cuspidal_image_order": 355718714400,
+  "image_index": 350,
+  "remaining": [],
+  "arithmetic_sha256": "286af84a40d88cad6d918db046c4725e063da8a504d230506cc8a169b6e34799",
+  "source_sha256": "23aa4621af4ac94a14034feba644e8805dee992686cbc42f2005b394440059cc"
+}

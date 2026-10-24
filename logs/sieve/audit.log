@@ -1,0 +1,38 @@
+[
+  {
+    "degree": 7,
+    "level": 34,
+    "prime": 3,
+    "partition_types": 44,
+    "closed_place_counts": [
+      0,
+      0,
+      0,
+      26,
+      32,
+      80,
+      256
+    ],
+    "survivors": 0,
+    "independent_counts_agree": true,
+    "complete": true
+  },
+  {
+    "degree": 7,
+    "level": 38,
+    "prime": 3,
+    "partition_types": 44,
+    "closed_place_counts": [
+      0,
+      0,
+      3,
+      0,
+      72,
+      87,
+      216
+    ],
+    "survivors": 0,
+    "independent_counts_agree": true,
+    "complete": true
+  }
+]

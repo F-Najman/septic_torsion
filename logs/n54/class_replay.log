@@ -1,0 +1,16 @@
+{
+  "tests": 12813,
+  "by_noncuspidal_degree": {
+    "3": 2544,
+    "4": 3648,
+    "5": 2112,
+    "6": 2997,
+    "7": 1512
+  },
+  "members_at_5": 28,
+  "passing_both_primes": 0,
+  "rational_cusp_image_index_at_5": 6518,
+  "inert_quadratic_diamond_representatives": 1,
+  "complete": true
+}
+N54_INTEGER_CLASS_REPLAY_DONE complete=true passing=0

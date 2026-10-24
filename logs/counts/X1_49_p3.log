@@ -1,0 +1,2 @@
+DEGREE7_FAST_COUNT m=1 n=49 p=3 genus=69 rational_point_counts=[ 0, 0, 0, 84, 315, 924, 2653 ] closed_place_counts=[ 0, 0, 0, 21, 63, 154, 379 ] time=0.250
+DEGREE7_FAST_COUNTS_DONE complete=true 0.250

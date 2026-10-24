@@ -1,0 +1,5 @@
+Y63_NC7_EXHAUSTIVE geometric_pairs=189 closed_places=27 diamond_orbits=3 time=0.020
+Y63_NC7_REP index=1 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 1, 1, 1, 0, 1, 1 ] x7=[ 0, 0, 0, 0, 0, 1, 0 ]
+Y63_NC7_REP index=2 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 0, 1, 1, 0, 1, 1 ] x7=[ 0, 0, 1, 1, 0, 0, 1 ]
+Y63_NC7_REP index=3 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 1, 1, 0, 1, 0, 1 ] x7=[ 0, 1, 1, 0, 1, 1, 1 ]
+Y63_ALL_QUOTIENT_NC7_PAIRS_VERIFIED

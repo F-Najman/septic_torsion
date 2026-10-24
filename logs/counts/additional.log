@@ -1,0 +1,15 @@
+DEGREE7_FAST_COUNT m=1 n=39 p=2 genus=33 rational_point_counts=[ 0, 0, 0, 0, 0, 72, 0 ] closed_place_counts=[ 0, 0, 0, 0, 0, 12, 0 ] time=0.230
+DEGREE7_FAST_COUNT m=1 n=45 p=2 genus=41 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 0 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 0 ] time=0.390
+DEGREE7_FAST_COUNT m=1 n=49 p=2 genus=69 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 0 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 0 ] time=0.540
+DEGREE7_FAST_COUNT m=1 n=51 p=2 genus=65 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 0 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 0 ] time=0.730
+DEGREE7_FAST_COUNT m=1 n=55 p=2 genus=81 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 140 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 20 ] time=0.930
+DEGREE7_FAST_COUNT m=1 n=57 p=2 genus=85 rational_point_counts=[ 0, 0, 0, 0, 0, 12, 252 ] closed_place_counts=[ 0, 0, 0, 0, 0, 2, 36 ] time=1.150
+DEGREE7_FAST_COUNT m=1 n=63 p=2 genus=97 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 378 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 54 ] time=1.420
+DEGREE7_FAST_COUNT m=1 n=65 p=2 genus=121 rational_point_counts=[ 0, 0, 0, 0, 0, 12, 336 ] closed_place_counts=[ 0, 0, 0, 0, 0, 2, 48 ] time=1.700
+DEGREE7_FAST_COUNT m=1 n=69 p=2 genus=133 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 462 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 66 ] time=1.980
+DEGREE7_FAST_COUNT m=1 n=75 p=2 genus=145 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 140 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 20 ] time=2.830
+DEGREE7_FAST_COUNT m=1 n=81 p=2 genus=190 rational_point_counts=[ 0, 0, 0, 0, 0, 0, 0 ] closed_place_counts=[ 0, 0, 0, 0, 0, 0, 0 ] time=3.240
+DEGREE7_FAST_COUNT m=1 n=42 p=5 genus=25 rational_point_counts=[ 0, 0, 12, 732, 3240, 13728, 78120 ] closed_place_counts=[ 0, 0, 4, 183, 648, 2286, 11160 ] time=3.480
+DEGREE7_FAST_COUNT m=1 n=46 p=3 genus=45 rational_point_counts=[ 0, 0, 0, 220, 220, 330, 1848 ] closed_place_counts=[ 0, 0, 0, 55, 44, 55, 264 ] time=3.600
+DEGREE7_FAST_COUNT m=1 n=54 p=5 genus=52 rational_point_counts=[ 0, 0, 162, 1044, 3060, 18360, 79884 ] closed_place_counts=[ 0, 0, 54, 261, 612, 3033, 11412 ] time=3.940
+DEGREE7_FAST_COUNTS_DONE complete=true 3.950

@@ -1,0 +1,47 @@
+C65_G41_BASE genus=21 degree=12 time=0.960
+C65_G41_MODEL genus=41 degree=24 time=7.000
+C65_G41_AUTOMORPHISMS order=8 time=7.040
+C65_G41_FORMS diamond_image=35 cartier_image=28 time=13.780
+C65_G41_SETUP_READY
+C65_G41_CUSPS pole_degree=672 signature={* 1^^8, 2^^4, 4^^4 *} time=134.370
+C65_G41_CUSP_STEPS degrees=[ 4, 1, 1, 1, 1, 4, 1, 1, 1, 1, 2, 2, 2, 2, 4, 4 ] steps=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3 ] time=134.370
+RANK0_CARTIER_COUNT N=65 total=3704 time=134.500
+C65_RR_TRANSPORT_PERMS T=[ 1, 4, 5, 3, 2, 6, 9, 10, 8, 7, 13, 14, 12, 11, 16, 15 ] U=[ 6, 8, 7, 10, 9, 1, 2, 3, 4, 5, 14, 13, 11, 12, 15, 16 ] orbits=[
+[ 1, 6 ],
+[ 15, 16 ],
+[ 11, 12, 13, 14 ],
+[ 2, 3, 4, 5, 7, 8, 9, 10 ]
+] time=136.050
+C65_RR_KERNEL_START cusp=1 multiplicity=1 time=136.050
+C65_RR_KERNEL_DONE cusp=1 multiplicity=1 kernel_dim=37 rank_on_U=4 time=143.790
+C65_RR_TRANSPORT_DIRECT source=1 target=6 multiplicity=1 verified=true time=149.040
+C65_RR_KERNEL_START cusp=15 multiplicity=1 time=149.040
+C65_RR_KERNEL_DONE cusp=15 multiplicity=1 kernel_dim=37 rank_on_U=4 time=154.180
+C65_RR_TRANSPORT_DIRECT source=15 target=16 multiplicity=1 verified=true time=159.590
+C65_RR_KERNEL_START cusp=11 multiplicity=1 time=159.590
+C65_RR_KERNEL_DONE cusp=11 multiplicity=1 kernel_dim=39 rank_on_U=2 time=161.320
+C65_RR_KERNEL_START cusp=11 multiplicity=2 time=161.320
+C65_RR_KERNEL_DONE cusp=11 multiplicity=2 kernel_dim=37 rank_on_U=4 time=163.130
+C65_RR_KERNEL_START cusp=11 multiplicity=3 time=163.130
+C65_RR_KERNEL_DONE cusp=11 multiplicity=3 kernel_dim=35 rank_on_U=6 time=165.020
+C65_RR_TRANSPORT_DIRECT source=11 target=12 multiplicity=3 verified=true time=166.910
+C65_RR_KERNEL_START cusp=2 multiplicity=1 time=166.910
+C65_RR_KERNEL_DONE cusp=2 multiplicity=1 kernel_dim=40 rank_on_U=1 time=168.440
+C65_RR_KERNEL_START cusp=2 multiplicity=2 time=168.440
+C65_RR_KERNEL_DONE cusp=2 multiplicity=2 kernel_dim=39 rank_on_U=2 time=170.360
+C65_RR_KERNEL_START cusp=2 multiplicity=3 time=170.360
+C65_RR_KERNEL_DONE cusp=2 multiplicity=3 kernel_dim=38 rank_on_U=3 time=172.470
+C65_RR_KERNEL_START cusp=2 multiplicity=4 time=172.470
+C65_RR_KERNEL_DONE cusp=2 multiplicity=4 kernel_dim=37 rank_on_U=4 time=174.500
+C65_RR_KERNEL_START cusp=2 multiplicity=5 time=174.500
+C65_RR_KERNEL_DONE cusp=2 multiplicity=5 kernel_dim=36 rank_on_U=5 time=176.730
+C65_RR_KERNEL_START cusp=2 multiplicity=6 time=176.730
+C65_RR_KERNEL_DONE cusp=2 multiplicity=6 kernel_dim=35 rank_on_U=6 time=179.010
+C65_RR_KERNEL_START cusp=2 multiplicity=7 time=179.010
+C65_RR_KERNEL_DONE cusp=2 multiplicity=7 kernel_dim=34 rank_on_U=7 time=181.460
+C65_RR_TRANSPORT_DIRECT source=2 target=3 multiplicity=7 verified=true time=183.940
+RANK0_CARTIER_DIRECT N=65 index=1 jet_rank=7 direct_rank=7 time=186.040
+RANK0_CARTIER_PROGRESS N=65 tested=1000 total=3704 exceptions=0 time=186.050
+RANK0_CARTIER_PROGRESS N=65 tested=2000 total=3704 exceptions=0 time=186.060
+RANK0_CARTIER_PROGRESS N=65 tested=3000 total=3704 exceptions=0 time=186.060
+RANK0_CARTIER_DONE N=65 D=7 tested=3704 total=3704 exceptions=0 complete=true time=186.080

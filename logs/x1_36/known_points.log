@@ -1,0 +1,7 @@
+C36_KNOWN_TORSION_REDUCTION 1 29 1 36 36
+C36_KNOWN_GLOBAL_MODEL_DONE 1 field_degree=7 exact_point_order=36 
+full_torsion=36 complete=true
+C36_KNOWN_TORSION_REDUCTION 2 5 3 108 108
+C36_KNOWN_TORSION_REDUCTION 2 19 2 360 36
+C36_KNOWN_GLOBAL_MODEL_DONE 2 field_degree=7 exact_point_order=36 
+full_torsion=36 complete=true

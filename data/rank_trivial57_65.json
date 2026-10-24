@@ -1,0 +1,54 @@
+{
+  "input": "inputs/lmfdb_newforms_cache.json",
+  "sha256": "f1fdb641a16ab0f02c2cc6a07ea6c4bb2643522d4a3b127dba41dc7d3d023fee",
+  "rows": [
+    {
+      "N": 57,
+      "genus": 85,
+      "all_ranks_proved": true,
+      "dimension_sum": 85,
+      "all_positive_characters_trivial": true,
+      "positive_forms": [
+        {
+          "level": 57,
+          "multiplicity": 1,
+          "id": 11043,
+          "label": "57.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        }
+      ]
+    },
+    {
+      "N": 65,
+      "genus": 121,
+      "all_ranks_proved": true,
+      "dimension_sum": 121,
+      "all_positive_characters_trivial": true,
+      "positive_forms": [
+        {
+          "level": 65,
+          "multiplicity": 1,
+          "id": 12421,
+          "label": "65.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        }
+      ]
+    }
+  ]
+}

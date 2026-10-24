@@ -1,0 +1,8 @@
+DEGREE7_INDEPENDENT_COUNT m=1 n=32 p=3 genus=17 rational_point_counts=[ 0, 0, 24, 32, 80, 864, 2184 ] closed_place_counts=[ 0, 0, 8, 8, 16, 140, 312 ]
+DEGREE7_INDEPENDENT_COUNT m=1 n=34 p=3 genus=21 rational_point_counts=[ 0, 0, 0, 104, 160, 480, 1792 ] closed_place_counts=[ 0, 0, 0, 26, 32, 80, 256 ]
+DEGREE7_INDEPENDENT_COUNT m=1 n=35 p=3 genus=25 rational_point_counts=[ 0, 0, 36, 0, 180, 792, 2436 ] closed_place_counts=[ 0, 0, 12, 0, 36, 126, 348 ]
+DEGREE7_INDEPENDENT_COUNT m=1 n=38 p=3 genus=28 rational_point_counts=[ 0, 0, 9, 0, 360, 531, 1512 ] closed_place_counts=[ 0, 0, 3, 0, 72, 87, 216 ]
+DEGREE7_INDEPENDENT_COUNT m=1 n=40 p=3 genus=25 rational_point_counts=[ 0, 0, 0, 128, 360, 480, 2856 ] closed_place_counts=[ 0, 0, 0, 32, 72, 80, 408 ]
+DEGREE7_INDEPENDENT_COUNT m=1 n=50 p=3 genus=48 rational_point_counts=[ 0, 0, 0, 0, 0, 360, 1400 ] closed_place_counts=[ 0, 0, 0, 0, 0, 60, 200 ]
+
+[Interrupted]

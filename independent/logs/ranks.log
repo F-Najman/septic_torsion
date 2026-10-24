@@ -1,0 +1,55 @@
+newforms fetched: 773  positive rank: 59  analytic rank unknown: 0
+KER 57 [2, 8] posforms: [('57.2.a.a', 1)]
+KER 65 [3, 6, 8, 4] posforms: [('65.2.a.a', 1)]
+KER 77 [3] posforms: [('77.2.a.a', 1)]
+KER 81 [2] posforms: []
+KER 85 [2] posforms: [('85.2.a.b', 1), ('85.2.j.a', 1)]
+KER 91 [3] posforms: [('91.2.a.a', 1), ('91.2.a.b', 1), ('91.2.g.a', 1), ('91.2.u.a', 1)]
+KER 95 [11] posforms: [('95.2.l.a', 1)]
+KER 99 [2] posforms: [('99.2.a.a', 1)]
+KER 115 [2] posforms: [('115.2.a.b', 1)]
+KER 119 [3] posforms: []
+KER 121 [2] posforms: [('121.2.a.b', 1)]
+KER 125 [3] posforms: [('125.2.a.a', 1)]
+KER 133 [64] posforms: [('133.2.a.a', 1), ('133.2.a.b', 1), ('133.2.f.a', 1), ('133.2.s.a', 1)]
+KER 143 [67] posforms: [('143.2.a.a', 1), ('143.2.h.a', 1)]
+KER 161 [2] posforms: [('161.2.a.b', 1)]
+KER 169 [3] posforms: [('169.2.a.b', 1)]
+KER 187 [122] posforms: [('187.2.a.e', 1), ('187.2.a.c', 1), ('187.2.g.a', 1)]
+KER 209 [34] posforms: [('209.2.a.b', 1), ('209.2.a.a', 1), ('209.2.f.a', 1)]
+KER 221 [3] posforms: [('221.2.a.f', 1), ('221.2.a.c', 1)]
+KER 247 [144] posforms: [('247.2.a.b', 1), ('247.2.a.c', 1), ('247.2.be.a', 1), ('247.2.be.b', 1)]
+KER 253 [2] posforms: [('253.2.a.a', 1), ('253.2.a.c', 1)]
+KER 289 [3] posforms: [('289.2.a.b', 1), ('289.2.a.d', 1), ('289.2.a.a', 1)]
+KER 299 [2] posforms: [('299.2.a.a', 1), ('299.2.a.d', 1)]
+KER 323 [101] posforms: [('323.2.a.c', 1), ('323.2.a.d', 1), ('323.2.k.a', 1)]
+KER 361 [3] posforms: [('361.2.a.g', 1), ('361.2.a.i', 1), ('361.2.a.a', 1)]
+KER 391 [2] posforms: [('391.2.a.c', 1), ('391.2.a.b', 1), ('391.2.a.a', 1)]
+KER 437 [2] posforms: [('437.2.a.f', 1), ('437.2.a.c', 1), ('437.2.a.d', 1), ('437.2.a.e', 1), ('437.2.a.a', 1)]
+KER 529 [2] posforms: [('529.2.a.g', 1), ('529.2.a.h', 1), ('529.2.a.i', 1)]
+RANK0 25 OK
+RANK0 27 OK
+RANK0 32 OK
+RANK0 33 OK
+RANK0 34 OK
+RANK0 35 OK
+RANK0 36 OK
+RANK0 38 OK
+RANK0 39 OK
+RANK0 40 OK
+RANK0 42 OK
+RANK0 45 OK
+RANK0 46 OK
+RANK0 49 OK
+RANK0 51 OK
+RANK0 54 OK
+RANK0 55 OK
+RANK0 69 OK
+QUOT X1(2,18) level 36 h 19 posforms [] OK
+QUOT X1(2,22) level 44 h 23 posforms [] OK
+QUOT X1(2,24) level 48 h 25 posforms [] OK
+QUOT X1(2,26) level 52 h 27 posforms [] OK
+QUOT X1(2,28) level 56 h 29 posforms [] OK
+QUOT X1(2,30) level 60 h 31 posforms [] OK
+QUOT Y63 level 63 h 8 posforms [('63.2.s.a', 1)] OK
+RANKS7_DONE OK

@@ -1,0 +1,15 @@
+C36_SOURCE_GENERATORS ngens=8 invariants=[ 4, 4, 12, 12, 36, 7812, 7812, 0 ]
+C36_SOURCE_ACTUAL_RELATIONS
+[   4    0    0    0    0    0    0    0]
+[   0    4    0    0    0    0    0    0]
+[   0    0   12    0    0    0    0    0]
+[   0    0    0   12    0    0    0    0]
+[   0    0    0    0   36    0    0    0]
+[   0    0    0    0    0 7812    0    0]
+[   0    0    0    0    0    0 7812    0]
+C36_TARGET_GENERATORS ngens=4 invariants=[ 6, 84, 252, 0 ]
+C36_TARGET_ACTUAL_RELATIONS
+[  6   0   0   0]
+[  0  84   0   0]
+[  0   0 252   0]
+C36_COORDINATE_PRESENTATIONS_FINITE_DIAGONAL_VERIFIED complete=true

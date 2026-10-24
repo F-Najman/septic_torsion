@@ -1,0 +1,4 @@
+C57_INDEPENDENT_CLASS_CASE index=1 choices=8 nonzero=8
+C57_INDEPENDENT_CLASS_CASE index=2 choices=8 nonzero=8
+C57_INDEPENDENT_CLASS_REPLAY_DONE actual_relations=true cases=2 tests=16 zero_classes=0 complete=true
+input_sha256=94aa93c8848f91f174e6d758dd2721386713043e0f8f91b6eee40a8dfc9cd469

@@ -1,0 +1,17 @@
+SetColumns(0);SetMemoryLimit(8*10^9);t0:=Cputime();
+AttachSpec("mdmagma/v2/mdmagma.spec");
+Attach("class_rational_reduction.m");
+fp:=FrobeniusPolynomial(JOne(33),2);jf2:=Integers()!Evaluate(fp,1);
+print "C33_F2_JORDER",jf2,Factorization(jf2),Cputime(t0);
+X:=MDX1(33,GF(2));C:=Curve(X);cs:=Cusps(X);os:=CuspOrbitsQ(X);
+assert Genus(X) eq 21;
+assert Sort([Degree(o):o in os]) eq [1:i in [1..10]] cat [2:i in [1..5]] cat [10,10];
+c0:=Support([o:o in os|Degree(o) eq 1][1])[1];
+print "C33_F2_SETUP",[Degree(c):c in cs],[Degree(o):o in os],Cputime(t0);
+G,m1,m2:=ClassGroupRationalReduction(C,c0:Proof:=true);
+assert &*[n:n in Invariants(G)|n ne 0] eq jf2;
+qc:=[m2(o-Degree(o)*Divisor(c0)):o in os];HQ:=sub<G|qc>;
+print "C33_F2_CLASS_GROUPS",Invariants(G),Invariants(HQ),Cputime(t0);
+places:=[NoncuspidalPlaces(X,d):d in [1..7]];
+print "C33_F2_NONCUSP",[#ss:ss in places],Cputime(t0);
+print "C33_F2_PROBE_DONE complete=true",Cputime(t0);

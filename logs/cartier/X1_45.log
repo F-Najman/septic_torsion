@@ -1,0 +1,268 @@
+RANK0_CARTIER_SETUP N=45 D=7 genus=41 direct_AF_model=true time=33.110
+RANK0_CARTIER_FORMS N=45 image_dimension=39 time=35.280
+Y63_ALL_CUSPS pole_degree=864 signature={* 1^^12, 2^^4, 4^^5, 6^^2, 12 *} time=128.280
+RANK0_CARTIER_CUSPS N=45 signature={* 1^^12, 2^^4, 4^^5, 6^^2 *} time=128.330
+RANK0_CARTIER_COUNT N=45 total=55260 time=129.900
+C45_RR_KERNEL_START cusp=1/23 multiplicity=1 time=129.910
+C45_RR_KERNEL_DONE cusp=1/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=153.670
+C45_RR_KERNEL_START cusp=1/23 multiplicity=2 time=153.670
+C45_RR_KERNEL_DONE cusp=1/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=160.760
+C45_RR_KERNEL_START cusp=1/23 multiplicity=3 time=160.760
+C45_RR_KERNEL_DONE cusp=1/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=179.860
+C45_RR_KERNEL_START cusp=1/23 multiplicity=4 time=179.860
+C45_RR_KERNEL_DONE cusp=1/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=191.380
+C45_RR_KERNEL_START cusp=1/23 multiplicity=5 time=191.380
+C45_RR_KERNEL_DONE cusp=1/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=204.010
+C45_RR_KERNEL_START cusp=1/23 multiplicity=6 time=204.010
+C45_RR_KERNEL_DONE cusp=1/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=213.020
+C45_RR_KERNEL_START cusp=1/23 multiplicity=7 time=213.020
+C45_RR_KERNEL_DONE cusp=1/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=269.360
+C45_RR_KERNEL_START cusp=2/23 multiplicity=1 time=269.360
+C45_RR_KERNEL_DONE cusp=2/23 multiplicity=1 kernel_dim=39 rank_on_U=2 time=280.200
+C45_RR_KERNEL_START cusp=2/23 multiplicity=2 time=280.200
+C45_RR_KERNEL_DONE cusp=2/23 multiplicity=2 kernel_dim=37 rank_on_U=4 time=290.700
+C45_RR_KERNEL_START cusp=2/23 multiplicity=3 time=290.700
+C45_RR_KERNEL_DONE cusp=2/23 multiplicity=3 kernel_dim=35 rank_on_U=6 time=313.370
+C45_RR_KERNEL_START cusp=3/23 multiplicity=1 time=313.370
+C45_RR_KERNEL_DONE cusp=3/23 multiplicity=1 kernel_dim=39 rank_on_U=2 time=319.610
+C45_RR_KERNEL_START cusp=3/23 multiplicity=2 time=319.610
+C45_RR_KERNEL_DONE cusp=3/23 multiplicity=2 kernel_dim=37 rank_on_U=4 time=326.740
+C45_RR_KERNEL_START cusp=3/23 multiplicity=3 time=326.740
+C45_RR_KERNEL_DONE cusp=3/23 multiplicity=3 kernel_dim=35 rank_on_U=6 time=362.950
+C45_RR_KERNEL_START cusp=4/23 multiplicity=1 time=362.950
+C45_RR_KERNEL_DONE cusp=4/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=407.900
+C45_RR_KERNEL_START cusp=4/23 multiplicity=2 time=407.900
+C45_RR_KERNEL_DONE cusp=4/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=414.990
+C45_RR_KERNEL_START cusp=4/23 multiplicity=3 time=414.990
+C45_RR_KERNEL_DONE cusp=4/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=442.430
+C45_RR_KERNEL_START cusp=4/23 multiplicity=4 time=442.430
+C45_RR_KERNEL_DONE cusp=4/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=450.440
+C45_RR_KERNEL_START cusp=4/23 multiplicity=5 time=450.440
+C45_RR_KERNEL_DONE cusp=4/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=494.850
+C45_RR_KERNEL_START cusp=4/23 multiplicity=6 time=494.850
+C45_RR_KERNEL_DONE cusp=4/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=506.780
+C45_RR_KERNEL_START cusp=4/23 multiplicity=7 time=506.780
+C45_RR_KERNEL_DONE cusp=4/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=551.820
+C45_RR_KERNEL_START cusp=5/23 multiplicity=1 time=551.820
+C45_RR_KERNEL_DONE cusp=5/23 multiplicity=1 kernel_dim=37 rank_on_U=4 time=572.800
+C45_RR_KERNEL_START cusp=6/23 multiplicity=1 time=572.800
+C45_RR_KERNEL_DONE cusp=6/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=592.940
+C45_RR_KERNEL_START cusp=6/23 multiplicity=2 time=592.940
+C45_RR_KERNEL_DONE cusp=6/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=599.050
+C45_RR_KERNEL_START cusp=6/23 multiplicity=3 time=599.050
+C45_RR_KERNEL_DONE cusp=6/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=607.130
+C45_RR_KERNEL_START cusp=6/23 multiplicity=4 time=607.130
+C45_RR_KERNEL_DONE cusp=6/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=616.760
+C45_RR_KERNEL_START cusp=6/23 multiplicity=5 time=616.760
+C45_RR_KERNEL_DONE cusp=6/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=637.250
+C45_RR_KERNEL_START cusp=6/23 multiplicity=6 time=637.250
+C45_RR_KERNEL_DONE cusp=6/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=646.510
+C45_RR_KERNEL_START cusp=6/23 multiplicity=7 time=646.510
+C45_RR_KERNEL_DONE cusp=6/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=664.300
+C45_RR_KERNEL_START cusp=7/23 multiplicity=1 time=664.300
+C45_RR_KERNEL_DONE cusp=7/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=697.390
+C45_RR_KERNEL_START cusp=7/23 multiplicity=2 time=697.390
+C45_RR_KERNEL_DONE cusp=7/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=705.680
+C45_RR_KERNEL_START cusp=7/23 multiplicity=3 time=705.680
+C45_RR_KERNEL_DONE cusp=7/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=715.680
+C45_RR_KERNEL_START cusp=7/23 multiplicity=4 time=715.680
+C45_RR_KERNEL_DONE cusp=7/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=723.400
+C45_RR_KERNEL_START cusp=7/23 multiplicity=5 time=723.400
+C45_RR_KERNEL_DONE cusp=7/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=738.830
+C45_RR_KERNEL_START cusp=7/23 multiplicity=6 time=738.830
+C45_RR_KERNEL_DONE cusp=7/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=755.450
+C45_RR_KERNEL_START cusp=7/23 multiplicity=7 time=755.450
+C45_RR_KERNEL_DONE cusp=7/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=783.870
+C45_RR_KERNEL_START cusp=8/23 multiplicity=1 time=783.870
+C45_RR_KERNEL_DONE cusp=8/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=833.220
+C45_RR_KERNEL_START cusp=8/23 multiplicity=2 time=833.220
+C45_RR_KERNEL_DONE cusp=8/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=840.290
+C45_RR_KERNEL_START cusp=8/23 multiplicity=3 time=840.290
+C45_RR_KERNEL_DONE cusp=8/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=867.450
+C45_RR_KERNEL_START cusp=8/23 multiplicity=4 time=867.450
+C45_RR_KERNEL_DONE cusp=8/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=874.480
+C45_RR_KERNEL_START cusp=8/23 multiplicity=5 time=874.480
+C45_RR_KERNEL_DONE cusp=8/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=894.600
+C45_RR_KERNEL_START cusp=8/23 multiplicity=6 time=894.600
+C45_RR_KERNEL_DONE cusp=8/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=902.150
+C45_RR_KERNEL_START cusp=8/23 multiplicity=7 time=902.150
+C45_RR_KERNEL_DONE cusp=8/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=923.590
+C45_RR_KERNEL_START cusp=9/23 multiplicity=1 time=923.590
+C45_RR_KERNEL_DONE cusp=9/23 multiplicity=1 kernel_dim=37 rank_on_U=4 time=948.670
+C45_RR_KERNEL_START cusp=10/23 multiplicity=1 time=948.670
+C45_RR_KERNEL_DONE cusp=10/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=981.970
+C45_RR_KERNEL_START cusp=10/23 multiplicity=2 time=981.970
+C45_RR_KERNEL_DONE cusp=10/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=989.430
+C45_RR_KERNEL_START cusp=10/23 multiplicity=3 time=989.430
+C45_RR_KERNEL_DONE cusp=10/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=1006.180
+C45_RR_KERNEL_START cusp=10/23 multiplicity=4 time=1006.180
+C45_RR_KERNEL_DONE cusp=10/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=1013.330
+C45_RR_KERNEL_START cusp=10/23 multiplicity=5 time=1013.330
+C45_RR_KERNEL_DONE cusp=10/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=1024.180
+C45_RR_KERNEL_START cusp=10/23 multiplicity=6 time=1024.180
+C45_RR_KERNEL_DONE cusp=10/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=1031.150
+C45_RR_KERNEL_START cusp=10/23 multiplicity=7 time=1031.150
+C45_RR_KERNEL_DONE cusp=10/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=1042.830
+C45_RR_KERNEL_START cusp=11/23 multiplicity=1 time=1042.830
+C45_RR_KERNEL_DONE cusp=11/23 multiplicity=1 kernel_dim=35 rank_on_U=6 time=1050.790
+C45_RR_KERNEL_START cusp=12/23 multiplicity=1 time=1050.790
+C45_RR_KERNEL_DONE cusp=12/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=1057.320
+C45_RR_KERNEL_START cusp=12/23 multiplicity=2 time=1057.320
+C45_RR_KERNEL_DONE cusp=12/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=1063.950
+C45_RR_KERNEL_START cusp=12/23 multiplicity=3 time=1063.950
+C45_RR_KERNEL_DONE cusp=12/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=1098.690
+C45_RR_KERNEL_START cusp=12/23 multiplicity=4 time=1098.690
+C45_RR_KERNEL_DONE cusp=12/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=1105.290
+C45_RR_KERNEL_START cusp=12/23 multiplicity=5 time=1105.290
+C45_RR_KERNEL_DONE cusp=12/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=1123.390
+C45_RR_KERNEL_START cusp=12/23 multiplicity=6 time=1123.390
+C45_RR_KERNEL_DONE cusp=12/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=1131.060
+C45_RR_KERNEL_START cusp=12/23 multiplicity=7 time=1131.060
+C45_RR_KERNEL_DONE cusp=12/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=1157.670
+C45_RR_KERNEL_START cusp=13/23 multiplicity=1 time=1157.670
+C45_RR_KERNEL_DONE cusp=13/23 multiplicity=1 kernel_dim=37 rank_on_U=4 time=1189.680
+C45_RR_KERNEL_START cusp=14/23 multiplicity=1 time=1189.680
+C45_RR_KERNEL_DONE cusp=14/23 multiplicity=1 kernel_dim=37 rank_on_U=4 time=1200.600
+C45_RR_KERNEL_START cusp=15/23 multiplicity=1 time=1200.600
+C45_RR_KERNEL_DONE cusp=15/23 multiplicity=1 kernel_dim=35 rank_on_U=6 time=1219.380
+C45_RR_KERNEL_START cusp=16/23 multiplicity=1 time=1219.380
+C45_RR_KERNEL_DONE cusp=16/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=1233.380
+C45_RR_KERNEL_START cusp=16/23 multiplicity=2 time=1233.380
+C45_RR_KERNEL_DONE cusp=16/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=1352.640
+C45_RR_KERNEL_START cusp=16/23 multiplicity=3 time=1352.640
+C45_RR_KERNEL_DONE cusp=16/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=1462.490
+C45_RR_KERNEL_START cusp=16/23 multiplicity=4 time=1462.490
+C45_RR_KERNEL_DONE cusp=16/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=1568.210
+C45_RR_KERNEL_START cusp=16/23 multiplicity=5 time=1568.210
+C45_RR_KERNEL_DONE cusp=16/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=1755.600
+C45_RR_KERNEL_START cusp=16/23 multiplicity=6 time=1755.600
+C45_RR_KERNEL_DONE cusp=16/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=1899.370
+C45_RR_KERNEL_START cusp=16/23 multiplicity=7 time=1899.370
+C45_RR_KERNEL_DONE cusp=16/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=2012.930
+C45_RR_KERNEL_START cusp=17/23 multiplicity=1 time=2012.930
+C45_RR_KERNEL_DONE cusp=17/23 multiplicity=1 kernel_dim=39 rank_on_U=2 time=2037.400
+C45_RR_KERNEL_START cusp=17/23 multiplicity=2 time=2037.400
+C45_RR_KERNEL_DONE cusp=17/23 multiplicity=2 kernel_dim=37 rank_on_U=4 time=2067.010
+C45_RR_KERNEL_START cusp=17/23 multiplicity=3 time=2067.020
+C45_RR_KERNEL_DONE cusp=17/23 multiplicity=3 kernel_dim=35 rank_on_U=6 time=2115.850
+C45_RR_KERNEL_START cusp=18/23 multiplicity=1 time=2115.850
+C45_RR_KERNEL_DONE cusp=18/23 multiplicity=1 kernel_dim=39 rank_on_U=2 time=2137.090
+C45_RR_KERNEL_START cusp=18/23 multiplicity=2 time=2137.090
+C45_RR_KERNEL_DONE cusp=18/23 multiplicity=2 kernel_dim=37 rank_on_U=4 time=2205.300
+C45_RR_KERNEL_START cusp=18/23 multiplicity=3 time=2205.300
+C45_RR_KERNEL_DONE cusp=18/23 multiplicity=3 kernel_dim=35 rank_on_U=6 time=2265.730
+C45_RR_KERNEL_START cusp=19/23 multiplicity=1 time=2265.730
+C45_RR_KERNEL_DONE cusp=19/23 multiplicity=1 kernel_dim=37 rank_on_U=4 time=2285.200
+C45_RR_KERNEL_START cusp=20/23 multiplicity=1 time=2285.200
+C45_RR_KERNEL_DONE cusp=20/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=2375.360
+C45_RR_KERNEL_START cusp=20/23 multiplicity=2 time=2375.360
+C45_RR_KERNEL_DONE cusp=20/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=2407.820
+C45_RR_KERNEL_START cusp=20/23 multiplicity=3 time=2407.820
+C45_RR_KERNEL_DONE cusp=20/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=2501.930
+C45_RR_KERNEL_START cusp=20/23 multiplicity=4 time=2501.930
+C45_RR_KERNEL_DONE cusp=20/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=2580.490
+C45_RR_KERNEL_START cusp=20/23 multiplicity=5 time=2580.490
+C45_RR_KERNEL_DONE cusp=20/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=2662.380
+C45_RR_KERNEL_START cusp=20/23 multiplicity=6 time=2662.380
+C45_RR_KERNEL_DONE cusp=20/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=2749.450
+C45_RR_KERNEL_START cusp=20/23 multiplicity=7 time=2749.450
+C45_RR_KERNEL_DONE cusp=20/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=2875.780
+C45_RR_KERNEL_START cusp=21/23 multiplicity=1 time=2875.780
+C45_RR_KERNEL_DONE cusp=21/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=2920.660
+C45_RR_KERNEL_START cusp=21/23 multiplicity=2 time=2920.660
+C45_RR_KERNEL_DONE cusp=21/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=2947.450
+C45_RR_KERNEL_START cusp=21/23 multiplicity=3 time=2947.450
+C45_RR_KERNEL_DONE cusp=21/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=2977.690
+C45_RR_KERNEL_START cusp=21/23 multiplicity=4 time=2977.690
+C45_RR_KERNEL_DONE cusp=21/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=3020.920
+C45_RR_KERNEL_START cusp=21/23 multiplicity=5 time=3020.920
+C45_RR_KERNEL_DONE cusp=21/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=3056.850
+C45_RR_KERNEL_START cusp=21/23 multiplicity=6 time=3056.850
+C45_RR_KERNEL_DONE cusp=21/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=3110.670
+C45_RR_KERNEL_START cusp=21/23 multiplicity=7 time=3110.670
+C45_RR_KERNEL_DONE cusp=21/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=3156.270
+C45_RR_KERNEL_START cusp=22/23 multiplicity=1 time=3156.270
+C45_RR_KERNEL_DONE cusp=22/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=3178.870
+C45_RR_KERNEL_START cusp=22/23 multiplicity=2 time=3178.870
+C45_RR_KERNEL_DONE cusp=22/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=3202.600
+C45_RR_KERNEL_START cusp=22/23 multiplicity=3 time=3202.600
+C45_RR_KERNEL_DONE cusp=22/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=3258.760
+C45_RR_KERNEL_START cusp=22/23 multiplicity=4 time=3258.760
+C45_RR_KERNEL_DONE cusp=22/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=3293.030
+C45_RR_KERNEL_START cusp=22/23 multiplicity=5 time=3293.030
+C45_RR_KERNEL_DONE cusp=22/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=3390.260
+C45_RR_KERNEL_START cusp=22/23 multiplicity=6 time=3390.260
+C45_RR_KERNEL_DONE cusp=22/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=3424.240
+C45_RR_KERNEL_START cusp=22/23 multiplicity=7 time=3424.240
+C45_RR_KERNEL_DONE cusp=22/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=3529.840
+C45_RR_KERNEL_START cusp=23/23 multiplicity=1 time=3529.840
+C45_RR_KERNEL_DONE cusp=23/23 multiplicity=1 kernel_dim=40 rank_on_U=1 time=3550.100
+C45_RR_KERNEL_START cusp=23/23 multiplicity=2 time=3550.100
+C45_RR_KERNEL_DONE cusp=23/23 multiplicity=2 kernel_dim=39 rank_on_U=2 time=3661.920
+C45_RR_KERNEL_START cusp=23/23 multiplicity=3 time=3661.920
+C45_RR_KERNEL_DONE cusp=23/23 multiplicity=3 kernel_dim=38 rank_on_U=3 time=3729.990
+C45_RR_KERNEL_START cusp=23/23 multiplicity=4 time=3729.990
+C45_RR_KERNEL_DONE cusp=23/23 multiplicity=4 kernel_dim=37 rank_on_U=4 time=3782.240
+C45_RR_KERNEL_START cusp=23/23 multiplicity=5 time=3782.240
+C45_RR_KERNEL_DONE cusp=23/23 multiplicity=5 kernel_dim=36 rank_on_U=5 time=3877.510
+C45_RR_KERNEL_START cusp=23/23 multiplicity=6 time=3877.510
+C45_RR_KERNEL_DONE cusp=23/23 multiplicity=6 kernel_dim=35 rank_on_U=6 time=3929.610
+C45_RR_KERNEL_START cusp=23/23 multiplicity=7 time=3929.610
+C45_RR_KERNEL_DONE cusp=23/23 multiplicity=7 kernel_dim=34 rank_on_U=7 time=4046.890
+RANK0_CARTIER_DIRECT N=45 index=1 jet_rank=7 direct_rank=7 time=4107.160
+RANK0_CARTIER_PROGRESS N=45 tested=1000 total=55260 exceptions=0 time=4107.170
+RANK0_CARTIER_PROGRESS N=45 tested=2000 total=55260 exceptions=0 time=4107.190
+RANK0_CARTIER_PROGRESS N=45 tested=3000 total=55260 exceptions=0 time=4107.200
+RANK0_CARTIER_PROGRESS N=45 tested=4000 total=55260 exceptions=0 time=4107.210
+RANK0_CARTIER_PROGRESS N=45 tested=5000 total=55260 exceptions=0 time=4107.220
+RANK0_CARTIER_PROGRESS N=45 tested=6000 total=55260 exceptions=0 time=4107.230
+RANK0_CARTIER_PROGRESS N=45 tested=7000 total=55260 exceptions=0 time=4107.240
+RANK0_CARTIER_PROGRESS N=45 tested=8000 total=55260 exceptions=0 time=4107.250
+RANK0_CARTIER_PROGRESS N=45 tested=9000 total=55260 exceptions=0 time=4107.260
+RANK0_CARTIER_PROGRESS N=45 tested=10000 total=55260 exceptions=0 time=4107.270
+RANK0_CARTIER_PROGRESS N=45 tested=11000 total=55260 exceptions=0 time=4107.280
+RANK0_CARTIER_PROGRESS N=45 tested=12000 total=55260 exceptions=0 time=4107.290
+RANK0_CARTIER_PROGRESS N=45 tested=13000 total=55260 exceptions=0 time=4107.300
+RANK0_CARTIER_PROGRESS N=45 tested=14000 total=55260 exceptions=0 time=4107.320
+RANK0_CARTIER_PROGRESS N=45 tested=15000 total=55260 exceptions=0 time=4107.330
+RANK0_CARTIER_PROGRESS N=45 tested=16000 total=55260 exceptions=0 time=4107.340
+RANK0_CARTIER_PROGRESS N=45 tested=17000 total=55260 exceptions=0 time=4107.350
+RANK0_CARTIER_PROGRESS N=45 tested=18000 total=55260 exceptions=0 time=4107.360
+RANK0_CARTIER_PROGRESS N=45 tested=19000 total=55260 exceptions=0 time=4107.370
+RANK0_CARTIER_PROGRESS N=45 tested=20000 total=55260 exceptions=0 time=4107.380
+RANK0_CARTIER_PROGRESS N=45 tested=21000 total=55260 exceptions=0 time=4107.390
+RANK0_CARTIER_PROGRESS N=45 tested=22000 total=55260 exceptions=0 time=4107.400
+RANK0_CARTIER_PROGRESS N=45 tested=23000 total=55260 exceptions=0 time=4107.420
+RANK0_CARTIER_PROGRESS N=45 tested=24000 total=55260 exceptions=0 time=4107.430
+RANK0_CARTIER_PROGRESS N=45 tested=25000 total=55260 exceptions=0 time=4107.440
+RANK0_CARTIER_PROGRESS N=45 tested=26000 total=55260 exceptions=0 time=4107.450
+RANK0_CARTIER_PROGRESS N=45 tested=27000 total=55260 exceptions=0 time=4107.460
+RANK0_CARTIER_PROGRESS N=45 tested=28000 total=55260 exceptions=0 time=4107.470
+RANK0_CARTIER_PROGRESS N=45 tested=29000 total=55260 exceptions=0 time=4107.480
+RANK0_CARTIER_PROGRESS N=45 tested=30000 total=55260 exceptions=0 time=4107.490
+RANK0_CARTIER_PROGRESS N=45 tested=31000 total=55260 exceptions=0 time=4107.500
+RANK0_CARTIER_PROGRESS N=45 tested=32000 total=55260 exceptions=0 time=4107.510
+RANK0_CARTIER_PROGRESS N=45 tested=33000 total=55260 exceptions=0 time=4107.520
+RANK0_CARTIER_PROGRESS N=45 tested=34000 total=55260 exceptions=0 time=4107.530
+RANK0_CARTIER_PROGRESS N=45 tested=35000 total=55260 exceptions=0 time=4107.550
+RANK0_CARTIER_PROGRESS N=45 tested=36000 total=55260 exceptions=0 time=4107.560
+RANK0_CARTIER_PROGRESS N=45 tested=37000 total=55260 exceptions=0 time=4107.570
+RANK0_CARTIER_PROGRESS N=45 tested=38000 total=55260 exceptions=0 time=4107.580
+RANK0_CARTIER_PROGRESS N=45 tested=39000 total=55260 exceptions=0 time=4107.590
+RANK0_CARTIER_PROGRESS N=45 tested=40000 total=55260 exceptions=0 time=4107.600
+RANK0_CARTIER_PROGRESS N=45 tested=41000 total=55260 exceptions=0 time=4107.610
+RANK0_CARTIER_PROGRESS N=45 tested=42000 total=55260 exceptions=0 time=4107.620
+RANK0_CARTIER_PROGRESS N=45 tested=43000 total=55260 exceptions=0 time=4107.630
+RANK0_CARTIER_PROGRESS N=45 tested=44000 total=55260 exceptions=0 time=4107.650
+RANK0_CARTIER_PROGRESS N=45 tested=45000 total=55260 exceptions=0 time=4107.660
+RANK0_CARTIER_PROGRESS N=45 tested=46000 total=55260 exceptions=0 time=4107.670
+RANK0_CARTIER_PROGRESS N=45 tested=47000 total=55260 exceptions=0 time=4107.680
+RANK0_CARTIER_PROGRESS N=45 tested=48000 total=55260 exceptions=0 time=4107.690
+RANK0_CARTIER_PROGRESS N=45 tested=49000 total=55260 exceptions=0 time=4107.700
+RANK0_CARTIER_PROGRESS N=45 tested=50000 total=55260 exceptions=0 time=4107.710
+RANK0_CARTIER_PROGRESS N=45 tested=51000 total=55260 exceptions=0 time=4107.720
+RANK0_CARTIER_PROGRESS N=45 tested=52000 total=55260 exceptions=0 time=4107.740
+RANK0_CARTIER_PROGRESS N=45 tested=53000 total=55260 exceptions=0 time=4107.750
+RANK0_CARTIER_PROGRESS N=45 tested=54000 total=55260 exceptions=0 time=4107.760
+RANK0_CARTIER_PROGRESS N=45 tested=55000 total=55260 exceptions=0 time=4107.770
+RANK0_CARTIER_DONE N=45 D=7 tested=55260 total=55260 exceptions=0 complete=true time=4107.880

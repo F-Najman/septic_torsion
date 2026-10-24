@@ -1,0 +1,818 @@
+{
+  "degree": 7,
+  "excluded_cyclic_orders": [
+    81,
+    99,
+    115,
+    161,
+    253,
+    299,
+    391,
+    437,
+    529
+  ],
+  "pending_exact_winding_logs": [],
+  "rows": [
+    {
+      "N": 81,
+      "a": 2,
+      "diamond_order": 27,
+      "index": 2916,
+      "genus": 190,
+      "gonality_lower_bound": "236925/8192",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 81,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 4,
+          "winding_dimension": 4,
+          "coefficient_degree": 1,
+          "CPU_seconds": 0.04
+        },
+        {
+          "N": 81,
+          "order": 27,
+          "conductor": 81,
+          "dimension": 8,
+          "winding_dimension": 8,
+          "coefficient_degree": 18,
+          "CPU_seconds": 0.03
+        },
+        {
+          "N": 81,
+          "order": 9,
+          "conductor": 27,
+          "dimension": 6,
+          "winding_dimension": 6,
+          "coefficient_degree": 6,
+          "CPU_seconds": 0.01
+        },
+        {
+          "N": 81,
+          "order": 3,
+          "conductor": 9,
+          "dimension": 3,
+          "winding_dimension": 3,
+          "coefficient_degree": 2,
+          "CPU_seconds": 0.01
+        }
+      ],
+      "log": "X1_81.log",
+      "log_sha256": "941de4c941c5cde4847403432a6edf9c7501fe7d19e0f5966fa943ae2b20282e"
+    },
+    {
+      "N": 99,
+      "a": 2,
+      "diamond_order": 15,
+      "index": 4320,
+      "genus": 281,
+      "gonality_lower_bound": "43875/1024",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [
+        1
+      ],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 99,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 9,
+          "winding_dimension": 8,
+          "coefficient_degree": 8,
+          "CPU_seconds": 0.05
+        },
+        {
+          "N": 99,
+          "order": 3,
+          "conductor": 9,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 8,
+          "CPU_seconds": 0.02
+        },
+        {
+          "N": 99,
+          "order": 30,
+          "conductor": 99,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 8,
+          "CPU_seconds": 0.03
+        },
+        {
+          "N": 99,
+          "order": 10,
+          "conductor": 33,
+          "dimension": 8,
+          "winding_dimension": 8,
+          "coefficient_degree": 8,
+          "CPU_seconds": 0.02
+        },
+        {
+          "N": 99,
+          "order": 5,
+          "conductor": 11,
+          "dimension": 8,
+          "winding_dimension": 8,
+          "coefficient_degree": 8,
+          "CPU_seconds": 0.03
+        },
+        {
+          "N": 99,
+          "order": 15,
+          "conductor": 99,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 8,
+          "CPU_seconds": 0.03
+        },
+        {
+          "N": 99,
+          "order": 6,
+          "conductor": 99,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 8,
+          "CPU_seconds": 0.02
+        },
+        {
+          "N": 99,
+          "order": 2,
+          "conductor": 33,
+          "dimension": 8,
+          "winding_dimension": 8,
+          "coefficient_degree": 8,
+          "CPU_seconds": 0.01
+        }
+      ],
+      "log": "X1_99.log",
+      "log_sha256": "eacb2963259f32316e43867f7e8cff810269ce46b7537b51da574aa8e56288e7"
+    },
+    {
+      "N": 115,
+      "a": 2,
+      "diamond_order": 44,
+      "index": 6336,
+      "genus": 441,
+      "gonality_lower_bound": "32175/512",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [
+        1
+      ],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 115,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 11,
+          "winding_dimension": 9,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.05
+        },
+        {
+          "N": 115,
+          "order": 2,
+          "conductor": 5,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.01
+        },
+        {
+          "N": 115,
+          "order": 44,
+          "conductor": 115,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.09
+        },
+        {
+          "N": 115,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.06
+        },
+        {
+          "N": 115,
+          "order": 22,
+          "conductor": 115,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.07
+        },
+        {
+          "N": 115,
+          "order": 4,
+          "conductor": 115,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.03
+        }
+      ],
+      "log": "X1_115.log",
+      "log_sha256": "a773fbb70f8abf736e80545d93e0507e46d1a4a1552388ca49eb626e3d27ced7"
+    },
+    {
+      "N": 161,
+      "a": 2,
+      "diamond_order": 33,
+      "index": 12672,
+      "genus": 925,
+      "gonality_lower_bound": "32175/256",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [
+        1
+      ],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 161,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 15,
+          "winding_dimension": 13,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.05
+        },
+        {
+          "N": 161,
+          "order": 3,
+          "conductor": 7,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.05
+        },
+        {
+          "N": 161,
+          "order": 66,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.15
+        },
+        {
+          "N": 161,
+          "order": 22,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.13
+        },
+        {
+          "N": 161,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.14
+        },
+        {
+          "N": 161,
+          "order": 33,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.2
+        },
+        {
+          "N": 161,
+          "order": 6,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.05
+        },
+        {
+          "N": 161,
+          "order": 2,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20,
+          "CPU_seconds": 0.02
+        }
+      ],
+      "log": "X1_161.log",
+      "log_sha256": "2b23fc40938a3931bb1498fd64bc3663f22f8f0c5958f6220148df986cb54811"
+    },
+    {
+      "N": 253,
+      "a": 2,
+      "diamond_order": 110,
+      "index": 31680,
+      "genus": 2421,
+      "gonality_lower_bound": "160875/512",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [
+        1
+      ],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 253,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 23,
+          "winding_dimension": 15,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.08
+        },
+        {
+          "N": 253,
+          "order": 5,
+          "conductor": 11,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.3
+        },
+        {
+          "N": 253,
+          "order": 110,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40,
+          "CPU_seconds": 2.92
+        },
+        {
+          "N": 253,
+          "order": 22,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40,
+          "CPU_seconds": 1.02
+        },
+        {
+          "N": 253,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40,
+          "CPU_seconds": 1.8
+        },
+        {
+          "N": 253,
+          "order": 55,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40,
+          "CPU_seconds": 4.15
+        },
+        {
+          "N": 253,
+          "order": 10,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.44
+        },
+        {
+          "N": 253,
+          "order": 2,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.06
+        }
+      ],
+      "log": "X1_253.log",
+      "log_sha256": "31eb3e7d8ef0bc25d5bdaba4a83fac3296880b7ef15a4a33d7d5e1e1cb739036"
+    },
+    {
+      "N": 299,
+      "a": 2,
+      "diamond_order": 132,
+      "index": 44352,
+      "genus": 3433,
+      "gonality_lower_bound": "225225/512",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [
+        1
+      ],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 299,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 27,
+          "winding_dimension": 23,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.11
+        },
+        {
+          "N": 299,
+          "order": 6,
+          "conductor": 13,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.34
+        },
+        {
+          "N": 299,
+          "order": 3,
+          "conductor": 13,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.38
+        },
+        {
+          "N": 299,
+          "order": 2,
+          "conductor": 13,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.09
+        },
+        {
+          "N": 299,
+          "order": 132,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 3.55
+        },
+        {
+          "N": 299,
+          "order": 44,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 2.14
+        },
+        {
+          "N": 299,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 1.74
+        },
+        {
+          "N": 299,
+          "order": 66,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 2.51
+        },
+        {
+          "N": 299,
+          "order": 33,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 2.11
+        },
+        {
+          "N": 299,
+          "order": 22,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 1.91
+        },
+        {
+          "N": 299,
+          "order": 12,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.48
+        },
+        {
+          "N": 299,
+          "order": 4,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40,
+          "CPU_seconds": 0.28
+        }
+      ],
+      "log": "X1_299.log",
+      "log_sha256": "4e761f20bfc3a66720fe8286ae1928c593a686d1362c219847c14f0e55f0a989"
+    },
+    {
+      "N": 391,
+      "a": 2,
+      "diamond_order": 88,
+      "index": 76032,
+      "genus": 5985,
+      "gonality_lower_bound": "96525/128",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [
+        1
+      ],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 391,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 35,
+          "winding_dimension": 27,
+          "coefficient_degree": 80,
+          "CPU_seconds": 0.27
+        },
+        {
+          "N": 391,
+          "order": 8,
+          "conductor": 17,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 2.63
+        },
+        {
+          "N": 391,
+          "order": 4,
+          "conductor": 17,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 0.71
+        },
+        {
+          "N": 391,
+          "order": 2,
+          "conductor": 17,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 0.16
+        },
+        {
+          "N": 391,
+          "order": 176,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 40.61
+        },
+        {
+          "N": 391,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 3.39
+        },
+        {
+          "N": 391,
+          "order": 88,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 17.96
+        },
+        {
+          "N": 391,
+          "order": 44,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 11.6
+        },
+        {
+          "N": 391,
+          "order": 22,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 4.84
+        },
+        {
+          "N": 391,
+          "order": 16,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80,
+          "CPU_seconds": 4.47
+        }
+      ],
+      "log": "X1_391.log",
+      "log_sha256": "82b759c3555941a3405d29d3246d168d5e3b48e8626e2350f42ae12eb27c0ca3"
+    },
+    {
+      "N": 437,
+      "a": 2,
+      "diamond_order": 198,
+      "index": 95040,
+      "genus": 7525,
+      "gonality_lower_bound": "482625/512",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [
+        1
+      ],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 437,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 39,
+          "winding_dimension": 27,
+          "coefficient_degree": 60,
+          "CPU_seconds": 0.23
+        },
+        {
+          "N": 437,
+          "order": 9,
+          "conductor": 19,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 3.58
+        },
+        {
+          "N": 437,
+          "order": 3,
+          "conductor": 19,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 1.32
+        },
+        {
+          "N": 437,
+          "order": 198,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 27.37
+        },
+        {
+          "N": 437,
+          "order": 66,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 6.91
+        },
+        {
+          "N": 437,
+          "order": 22,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 4.53
+        },
+        {
+          "N": 437,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 7.42
+        },
+        {
+          "N": 437,
+          "order": 99,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 32.87
+        },
+        {
+          "N": 437,
+          "order": 33,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 8.47
+        },
+        {
+          "N": 437,
+          "order": 18,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 2.16
+        },
+        {
+          "N": 437,
+          "order": 6,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 0.78
+        },
+        {
+          "N": 437,
+          "order": 2,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60,
+          "CPU_seconds": 0.2
+        }
+      ],
+      "log": "X1_437.log",
+      "log_sha256": "c43c03e934fdd5ac605b13574798b24e593da457bfeab36f4e56a8c37e4bc414"
+    },
+    {
+      "N": 529,
+      "a": 2,
+      "diamond_order": 253,
+      "index": 139656,
+      "genus": 11265,
+      "gonality_lower_bound": "5673525/4096",
+      "finite_field_good_degrees_through7": [],
+      "only_deficient_character_orders": [
+        1
+      ],
+      "all_nontrivial_characters_full_winding": true,
+      "character_orbits": [
+        {
+          "N": 529,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 35,
+          "winding_dimension": 22,
+          "coefficient_degree": 1,
+          "CPU_seconds": 0.12
+        },
+        {
+          "N": 529,
+          "order": 253,
+          "conductor": 529,
+          "dimension": 45,
+          "winding_dimension": 45,
+          "coefficient_degree": 220,
+          "CPU_seconds": 36.64
+        },
+        {
+          "N": 529,
+          "order": 23,
+          "conductor": 529,
+          "dimension": 45,
+          "winding_dimension": 45,
+          "coefficient_degree": 22,
+          "CPU_seconds": 4.85
+        },
+        {
+          "N": 529,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 10,
+          "CPU_seconds": 1.78
+        }
+      ],
+      "log": "X1_529.log",
+      "log_sha256": "db997779da73e03ac6968b973f41c34946510a77a5c5d0a9d0e9b7b32e09808a"
+    }
+  ],
+  "method": "dyadic finite image diamond; CM septic curves excluded by Bourdon-Pollack Theorem1.2",
+  "status": "all listed numerical, winding and finite-field inputs verified; proof is in new_large_exclusions.tex"
+}

@@ -1,0 +1,904 @@
+{
+  "degree": 7,
+  "rank_input": "data/lmfdb_newforms_cache.json",
+  "rank_input_sha256": "f1fdb641a16ab0f02c2cc6a07ea6c4bb2643522d4a3b127dba41dc7d3d023fee",
+  "excluded_cyclic_orders": [
+    77,
+    85,
+    91,
+    95,
+    119,
+    121,
+    125,
+    133,
+    143,
+    169,
+    187,
+    209,
+    221,
+    247,
+    289,
+    323,
+    361
+  ],
+  "rows": [
+    {
+      "N": 119,
+      "a": 3,
+      "method": "global3",
+      "k3": 7,
+      "index": 6912,
+      "gonality_lower_bound": "8775/128",
+      "diamond_order": 48,
+      "CM_minimum": 96,
+      "genus": 481,
+      "newform_dimension_sum": 481,
+      "positive_rank_forms": [],
+      "nontrivial_positive_characters": []
+    },
+    {
+      "N": 121,
+      "a": 2,
+      "method": "global3",
+      "k3": 8,
+      "index": 7260,
+      "gonality_lower_bound": "589875/8192",
+      "diamond_order": 55,
+      "CM_minimum": 110,
+      "genus": 526,
+      "newform_dimension_sum": 526,
+      "positive_rank_forms": [
+        {
+          "level": 121,
+          "multiplicity": 1,
+          "id": 20957,
+          "label": "121.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": true,
+          "nf_label": "1.1.1.1"
+        }
+      ],
+      "nontrivial_positive_characters": []
+    },
+    {
+      "N": 125,
+      "a": 3,
+      "method": "global3",
+      "k3": 7,
+      "index": 7500,
+      "gonality_lower_bound": "609375/8192",
+      "diamond_order": 50,
+      "CM_minimum": 50,
+      "genus": 536,
+      "newform_dimension_sum": 536,
+      "positive_rank_forms": [
+        {
+          "level": 125,
+          "multiplicity": 1,
+          "id": 21350,
+          "label": "125.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.5.1"
+        }
+      ],
+      "nontrivial_positive_characters": []
+    },
+    {
+      "N": 133,
+      "a": 64,
+      "method": "global3",
+      "k3": 8,
+      "index": 8640,
+      "gonality_lower_bound": "43875/512",
+      "diamond_order": 3,
+      "CM_minimum": 36,
+      "genus": 613,
+      "newform_dimension_sum": 613,
+      "positive_rank_forms": [
+        {
+          "level": 133,
+          "multiplicity": 1,
+          "id": 22508,
+          "label": "133.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.5.1"
+        },
+        {
+          "level": 133,
+          "multiplicity": 1,
+          "id": 22509,
+          "label": "133.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.13.1"
+        },
+        {
+          "level": 133,
+          "multiplicity": 1,
+          "id": 22518,
+          "label": "133.2.f.a",
+          "char_orbit_label": "f",
+          "char_order": 3,
+          "char_conductor": 7,
+          "dim": 2,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.0.3.1"
+        },
+        {
+          "level": 133,
+          "multiplicity": 1,
+          "id": 22536,
+          "label": "133.2.s.a",
+          "char_orbit_label": "s",
+          "char_order": 6,
+          "char_conductor": 133,
+          "dim": 2,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.0.3.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          133,
+          "f"
+        ],
+        [
+          133,
+          "s"
+        ]
+      ]
+    },
+    {
+      "N": 143,
+      "a": 67,
+      "method": "global3",
+      "k3": 8,
+      "index": 10080,
+      "gonality_lower_bound": "102375/1024",
+      "diamond_order": 12,
+      "CM_minimum": 120,
+      "genus": 721,
+      "newform_dimension_sum": 721,
+      "positive_rank_forms": [
+        {
+          "level": 143,
+          "multiplicity": 1,
+          "id": 23494,
+          "label": "143.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 143,
+          "multiplicity": 1,
+          "id": 23502,
+          "label": "143.2.h.a",
+          "char_orbit_label": "h",
+          "char_order": 5,
+          "char_conductor": 11,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.125.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          143,
+          "h"
+        ]
+      ]
+    },
+    {
+      "N": 169,
+      "a": 3,
+      "method": "global3",
+      "k3": 7,
+      "index": 14196,
+      "gonality_lower_bound": "1153425/8192",
+      "diamond_order": 39,
+      "CM_minimum": 52,
+      "genus": 1070,
+      "newform_dimension_sum": 1070,
+      "positive_rank_forms": [
+        {
+          "level": 169,
+          "multiplicity": 1,
+          "id": 26812,
+          "label": "169.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.49.1"
+        }
+      ],
+      "nontrivial_positive_characters": []
+    },
+    {
+      "N": 187,
+      "a": 122,
+      "method": "global3",
+      "k3": 8,
+      "index": 17280,
+      "gonality_lower_bound": "43875/256",
+      "diamond_order": 16,
+      "CM_minimum": 160,
+      "genus": 1281,
+      "newform_dimension_sum": 1281,
+      "positive_rank_forms": [
+        {
+          "level": 187,
+          "multiplicity": 1,
+          "id": 28979,
+          "label": "187.2.a.c",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.12.1"
+        },
+        {
+          "level": 187,
+          "multiplicity": 1,
+          "id": 28981,
+          "label": "187.2.a.e",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.148.1"
+        },
+        {
+          "level": 187,
+          "multiplicity": 1,
+          "id": 28986,
+          "label": "187.2.g.a",
+          "char_orbit_label": "g",
+          "char_order": 5,
+          "char_conductor": 11,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.125.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          187,
+          "g"
+        ]
+      ]
+    },
+    {
+      "N": 209,
+      "a": 34,
+      "method": "global3",
+      "k3": 8,
+      "index": 21600,
+      "gonality_lower_bound": "219375/1024",
+      "diamond_order": 18,
+      "CM_minimum": 180,
+      "genus": 1621,
+      "newform_dimension_sum": 1621,
+      "positive_rank_forms": [
+        {
+          "level": 209,
+          "multiplicity": 1,
+          "id": 31768,
+          "label": "209.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 209,
+          "multiplicity": 1,
+          "id": 31769,
+          "label": "209.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.8.1"
+        },
+        {
+          "level": 209,
+          "multiplicity": 1,
+          "id": 31777,
+          "label": "209.2.f.a",
+          "char_orbit_label": "f",
+          "char_order": 5,
+          "char_conductor": 11,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.125.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          209,
+          "f"
+        ]
+      ]
+    },
+    {
+      "N": 221,
+      "a": 3,
+      "method": "global3",
+      "k3": 7,
+      "index": 24192,
+      "gonality_lower_bound": "61425/256",
+      "diamond_order": 48,
+      "CM_minimum": 96,
+      "genus": 1825,
+      "newform_dimension_sum": 1825,
+      "positive_rank_forms": [
+        {
+          "level": 221,
+          "multiplicity": 1,
+          "id": 32917,
+          "label": "221.2.a.c",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.5.1"
+        },
+        {
+          "level": 221,
+          "multiplicity": 1,
+          "id": 32920,
+          "label": "221.2.a.f",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.229.1"
+        }
+      ],
+      "nontrivial_positive_characters": []
+    },
+    {
+      "N": 247,
+      "a": 144,
+      "method": "global3",
+      "k3": 8,
+      "index": 30240,
+      "gonality_lower_bound": "307125/1024",
+      "diamond_order": 3,
+      "CM_minimum": 72,
+      "genus": 2305,
+      "newform_dimension_sum": 2305,
+      "positive_rank_forms": [
+        {
+          "level": 247,
+          "multiplicity": 1,
+          "id": 36007,
+          "label": "247.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.81.1"
+        },
+        {
+          "level": 247,
+          "multiplicity": 1,
+          "id": 36008,
+          "label": "247.2.a.c",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 4,
+          "relative_dim": 4,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.4.6809.1"
+        },
+        {
+          "level": 247,
+          "multiplicity": 1,
+          "id": 36032,
+          "label": "247.2.be.a",
+          "char_orbit_label": "be",
+          "char_order": 12,
+          "char_conductor": 247,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.144.1"
+        },
+        {
+          "level": 247,
+          "multiplicity": 1,
+          "id": 36033,
+          "label": "247.2.be.b",
+          "char_orbit_label": "be",
+          "char_order": 12,
+          "char_conductor": 247,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.144.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          247,
+          "be"
+        ]
+      ]
+    },
+    {
+      "N": 289,
+      "a": 3,
+      "method": "global3",
+      "k3": 7,
+      "index": 41616,
+      "gonality_lower_bound": "845325/2048",
+      "diamond_order": 136,
+      "CM_minimum": 136,
+      "genus": 3269,
+      "newform_dimension_sum": 3269,
+      "positive_rank_forms": [
+        {
+          "level": 289,
+          "multiplicity": 1,
+          "id": 40234,
+          "label": "289.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 289,
+          "multiplicity": 1,
+          "id": 40235,
+          "label": "289.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.13.1"
+        },
+        {
+          "level": 289,
+          "multiplicity": 1,
+          "id": 40237,
+          "label": "289.2.a.d",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.81.1"
+        }
+      ],
+      "nontrivial_positive_characters": []
+    },
+    {
+      "N": 323,
+      "a": 101,
+      "method": "global3",
+      "k3": 8,
+      "index": 51840,
+      "gonality_lower_bound": "131625/256",
+      "diamond_order": 18,
+      "CM_minimum": 288,
+      "genus": 4033,
+      "newform_dimension_sum": 4033,
+      "positive_rank_forms": [
+        {
+          "level": 323,
+          "multiplicity": 1,
+          "id": 43641,
+          "label": "323.2.a.c",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 4,
+          "relative_dim": 4,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.4.1957.1"
+        },
+        {
+          "level": 323,
+          "multiplicity": 1,
+          "id": 43642,
+          "label": "323.2.a.d",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 5,
+          "relative_dim": 5,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "5.5.106069.1"
+        },
+        {
+          "level": 323,
+          "multiplicity": 1,
+          "id": 43659,
+          "label": "323.2.k.a",
+          "char_orbit_label": "k",
+          "char_order": 8,
+          "char_conductor": 17,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.256.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          323,
+          "k"
+        ]
+      ]
+    },
+    {
+      "N": 361,
+      "a": 3,
+      "method": "global3",
+      "k3": 7,
+      "index": 64980,
+      "gonality_lower_bound": "5279625/8192",
+      "diamond_order": 171,
+      "CM_minimum": 114,
+      "genus": 5164,
+      "newform_dimension_sum": 5164,
+      "positive_rank_forms": [
+        {
+          "level": 361,
+          "multiplicity": 1,
+          "id": 47477,
+          "label": "361.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": true,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 361,
+          "multiplicity": 1,
+          "id": 47483,
+          "label": "361.2.a.g",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.81.1"
+        },
+        {
+          "level": 361,
+          "multiplicity": 1,
+          "id": 47485,
+          "label": "361.2.a.i",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 4,
+          "relative_dim": 4,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.4.2000.1"
+        }
+      ],
+      "nontrivial_positive_characters": []
+    },
+    {
+      "N": 77,
+      "a": 3,
+      "method": "local2",
+      "k3": null,
+      "index": 2880,
+      "gonality_lower_bound": "14625/512",
+      "diamond_order": 30,
+      "CM_minimum": 60,
+      "genus": 181,
+      "newform_dimension_sum": 181,
+      "positive_rank_forms": [
+        {
+          "level": 77,
+          "multiplicity": 1,
+          "id": 14352,
+          "label": "77.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        }
+      ],
+      "nontrivial_positive_characters": []
+    },
+    {
+      "N": 85,
+      "a": 2,
+      "method": "local2",
+      "k3": null,
+      "index": 3456,
+      "gonality_lower_bound": "8775/256",
+      "diamond_order": 8,
+      "CM_minimum": 32,
+      "genus": 225,
+      "newform_dimension_sum": 225,
+      "positive_rank_forms": [
+        {
+          "level": 85,
+          "multiplicity": 1,
+          "id": 15777,
+          "label": "85.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.8.1"
+        },
+        {
+          "level": 85,
+          "multiplicity": 1,
+          "id": 15783,
+          "label": "85.2.j.a",
+          "char_orbit_label": "j",
+          "char_order": 4,
+          "char_conductor": 85,
+          "dim": 2,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.0.4.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          85,
+          "j"
+        ]
+      ]
+    },
+    {
+      "N": 91,
+      "a": 3,
+      "method": "local2",
+      "k3": null,
+      "index": 4032,
+      "gonality_lower_bound": "20475/512",
+      "diamond_order": 6,
+      "CM_minimum": 24,
+      "genus": 265,
+      "newform_dimension_sum": 265,
+      "positive_rank_forms": [
+        {
+          "level": 91,
+          "multiplicity": 1,
+          "id": 16672,
+          "label": "91.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 91,
+          "multiplicity": 1,
+          "id": 16673,
+          "label": "91.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 91,
+          "multiplicity": 1,
+          "id": 16683,
+          "label": "91.2.g.a",
+          "char_orbit_label": "g",
+          "char_order": 3,
+          "char_conductor": 91,
+          "dim": 2,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.0.3.1"
+        },
+        {
+          "level": 91,
+          "multiplicity": 1,
+          "id": 16692,
+          "label": "91.2.u.a",
+          "char_orbit_label": "u",
+          "char_order": 6,
+          "char_conductor": 91,
+          "dim": 2,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.0.3.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          91,
+          "g"
+        ],
+        [
+          91,
+          "u"
+        ]
+      ]
+    },
+    {
+      "N": 95,
+      "a": 11,
+      "method": "local2",
+      "k3": null,
+      "index": 4320,
+      "gonality_lower_bound": "43875/1024",
+      "diamond_order": 3,
+      "CM_minimum": 72,
+      "genus": 289,
+      "newform_dimension_sum": 289,
+      "positive_rank_forms": [
+        {
+          "level": 95,
+          "multiplicity": 1,
+          "id": 17237,
+          "label": "95.2.l.a",
+          "char_orbit_label": "l",
+          "char_order": 12,
+          "char_conductor": 95,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.144.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          95,
+          "l"
+        ]
+      ]
+    }
+  ],
+  "status": "numerical_and_rank_inputs_verified; separate_character_and_finite_field_logs_required"
+}

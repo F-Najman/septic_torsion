@@ -1,0 +1,7 @@
+DEG7_M2_PREFLIGHT N=22 p=3 genus=16 rational=[ 0, 0, 0, 0, 300, 600, 1680 ] closed=[ 0, 0, 0, 0, 60, 100, 240 ] time=0.170
+DEG7_M2_PREFLIGHT N=24 p=5 genus=13 rational=[ 0, 0, 48, 384, 3360, 16320, 78288 ] closed=[ 0, 0, 16, 96, 672, 2712, 11184 ] time=0.330
+DEG7_M2_PREFLIGHT N=26 p=3 genus=25 rational=[ 0, 0, 0, 0, 180, 732, 2016 ] closed=[ 0, 0, 0, 0, 36, 122, 288 ] time=0.380
+DEG7_M2_PREFLIGHT N=28 p=3 genus=25 rational=[ 0, 0, 0, 0, 240, 384, 2184 ] closed=[ 0, 0, 0, 0, 48, 64, 312 ] time=0.450
+DEG7_M2_PREFLIGHT N=30 p=7 genus=25 rational=[ 0, 48, 576, 2976, 13680, 120624, 811440 ] closed=[ 0, 24, 192, 732, 2736, 20000, 115920 ] time=2.590
+DEG7_M2_PREFLIGHT N=36 p=5 genus=41 rational=[ 0, 0, 144, 480, 3600, 17568, 72912 ] closed=[ 0, 0, 48, 120, 720, 2904, 10416 ] time=2.800
+DEG7_M2_PREFLIGHT_DONE complete=true 2.800

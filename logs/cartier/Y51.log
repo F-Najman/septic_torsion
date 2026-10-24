@@ -1,0 +1,425 @@
+Y51_EQUATION degree=4 base_genus=5 separable=true time=0.060
+Y51_IRREDUCIBLE time=0.180
+RANK0_CARTIER_SETUP N=51 D=7 genus=33 direct_AF_model=true time=116.440
+RANK0_CARTIER_FORMS N=51 image_dimension=30 time=120.870
+Y51_BASE_CUSPS count=10 time=120.870
+Y51_CUSP_DECOMPOSITION index=1/10 raw_signature={* 1^^2 *} total_unique_poles=2 time=121.200
+Y51_CUSP_DECOMPOSITION index=2/10 raw_signature={* 1^^2 *} total_unique_poles=4 time=121.670
+Y51_CUSP_DECOMPOSITION index=3/10 raw_signature={* 1^^2 *} total_unique_poles=6 time=121.920
+Y51_CUSP_DECOMPOSITION index=4/10 raw_signature={* 1^^2 *} total_unique_poles=8 time=122.100
+Y51_CUSP_DECOMPOSITION index=5/10 raw_signature={* 4^^2 *} total_unique_poles=10 time=122.130
+Y51_CUSP_DECOMPOSITION index=6/10 raw_signature={* 4^^2 *} total_unique_poles=12 time=122.170
+Y51_CUSP_DECOMPOSITION index=7/10 raw_signature={* 1^^8 *} total_unique_poles=20 time=661.410
+Y51_CUSP_DECOMPOSITION index=8/10 raw_signature={* 1^^8 *} total_unique_poles=20 time=661.410
+Y51_CUSP_DECOMPOSITION index=9/10 raw_signature={* 1^^8 *} total_unique_poles=20 time=661.410
+Y51_CUSP_DECOMPOSITION index=10/10 raw_signature={* 1^^8 *} total_unique_poles=20 time=661.410
+Y51_ALL_CUSPS pole_degree=576 signature={* 1^^16, 4^^4 *} time=661.510
+RANK0_CARTIER_CUSPS N=51 signature={* 1^^16, 4^^4 *} time=661.510
+RANK0_CARTIER_COUNT N=51 total=173808 time=665.280
+C51_RR_KERNEL_START cusp=1/20 multiplicity=1 time=665.320
+C51_RR_KERNEL_DONE cusp=1/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=672.290
+C51_RR_KERNEL_START cusp=1/20 multiplicity=2 time=672.290
+C51_RR_KERNEL_DONE cusp=1/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=677.500
+C51_RR_KERNEL_START cusp=1/20 multiplicity=3 time=677.500
+C51_RR_KERNEL_DONE cusp=1/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=682.750
+C51_RR_KERNEL_START cusp=1/20 multiplicity=4 time=682.750
+C51_RR_KERNEL_DONE cusp=1/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=688.330
+C51_RR_KERNEL_START cusp=1/20 multiplicity=5 time=688.330
+C51_RR_KERNEL_DONE cusp=1/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=694.320
+C51_RR_KERNEL_START cusp=1/20 multiplicity=6 time=694.320
+C51_RR_KERNEL_DONE cusp=1/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=700.020
+C51_RR_KERNEL_START cusp=1/20 multiplicity=7 time=700.020
+C51_RR_KERNEL_DONE cusp=1/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=706.190
+C51_RR_KERNEL_START cusp=2/20 multiplicity=1 time=706.190
+C51_RR_KERNEL_DONE cusp=2/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=711.010
+C51_RR_KERNEL_START cusp=2/20 multiplicity=2 time=711.010
+C51_RR_KERNEL_DONE cusp=2/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=716.490
+C51_RR_KERNEL_START cusp=2/20 multiplicity=3 time=716.490
+C51_RR_KERNEL_DONE cusp=2/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=722.130
+C51_RR_KERNEL_START cusp=2/20 multiplicity=4 time=722.130
+C51_RR_KERNEL_DONE cusp=2/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=728.140
+C51_RR_KERNEL_START cusp=2/20 multiplicity=5 time=728.140
+C51_RR_KERNEL_DONE cusp=2/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=733.850
+C51_RR_KERNEL_START cusp=2/20 multiplicity=6 time=733.850
+C51_RR_KERNEL_DONE cusp=2/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=739.600
+C51_RR_KERNEL_START cusp=2/20 multiplicity=7 time=739.600
+C51_RR_KERNEL_DONE cusp=2/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=745.670
+C51_RR_KERNEL_START cusp=3/20 multiplicity=1 time=745.670
+C51_RR_KERNEL_DONE cusp=3/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=750.200
+C51_RR_KERNEL_START cusp=3/20 multiplicity=2 time=750.200
+C51_RR_KERNEL_DONE cusp=3/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=755.800
+C51_RR_KERNEL_START cusp=3/20 multiplicity=3 time=755.800
+C51_RR_KERNEL_DONE cusp=3/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=761.260
+C51_RR_KERNEL_START cusp=3/20 multiplicity=4 time=761.260
+C51_RR_KERNEL_DONE cusp=3/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=767.310
+C51_RR_KERNEL_START cusp=3/20 multiplicity=5 time=767.310
+C51_RR_KERNEL_DONE cusp=3/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=773.170
+C51_RR_KERNEL_START cusp=3/20 multiplicity=6 time=773.170
+C51_RR_KERNEL_DONE cusp=3/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=779.150
+C51_RR_KERNEL_START cusp=3/20 multiplicity=7 time=779.150
+C51_RR_KERNEL_DONE cusp=3/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=785.140
+C51_RR_KERNEL_START cusp=4/20 multiplicity=1 time=785.140
+C51_RR_KERNEL_DONE cusp=4/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=789.730
+C51_RR_KERNEL_START cusp=4/20 multiplicity=2 time=789.730
+C51_RR_KERNEL_DONE cusp=4/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=795.100
+C51_RR_KERNEL_START cusp=4/20 multiplicity=3 time=795.110
+C51_RR_KERNEL_DONE cusp=4/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=800.500
+C51_RR_KERNEL_START cusp=4/20 multiplicity=4 time=800.500
+C51_RR_KERNEL_DONE cusp=4/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=806.230
+C51_RR_KERNEL_START cusp=4/20 multiplicity=5 time=806.230
+C51_RR_KERNEL_DONE cusp=4/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=812.400
+C51_RR_KERNEL_START cusp=4/20 multiplicity=6 time=812.400
+C51_RR_KERNEL_DONE cusp=4/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=818.150
+C51_RR_KERNEL_START cusp=4/20 multiplicity=7 time=818.150
+C51_RR_KERNEL_DONE cusp=4/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=824.090
+C51_RR_KERNEL_START cusp=5/20 multiplicity=1 time=824.090
+C51_RR_KERNEL_DONE cusp=5/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=828.830
+C51_RR_KERNEL_START cusp=5/20 multiplicity=2 time=828.830
+C51_RR_KERNEL_DONE cusp=5/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=834.450
+C51_RR_KERNEL_START cusp=5/20 multiplicity=3 time=834.450
+C51_RR_KERNEL_DONE cusp=5/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=839.790
+C51_RR_KERNEL_START cusp=5/20 multiplicity=4 time=839.790
+C51_RR_KERNEL_DONE cusp=5/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=845.750
+C51_RR_KERNEL_START cusp=5/20 multiplicity=5 time=845.750
+C51_RR_KERNEL_DONE cusp=5/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=851.560
+C51_RR_KERNEL_START cusp=5/20 multiplicity=6 time=851.560
+C51_RR_KERNEL_DONE cusp=5/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=857.510
+C51_RR_KERNEL_START cusp=5/20 multiplicity=7 time=857.510
+C51_RR_KERNEL_DONE cusp=5/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=863.630
+C51_RR_KERNEL_START cusp=6/20 multiplicity=1 time=863.630
+C51_RR_KERNEL_DONE cusp=6/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=868.530
+C51_RR_KERNEL_START cusp=6/20 multiplicity=2 time=868.530
+C51_RR_KERNEL_DONE cusp=6/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=873.830
+C51_RR_KERNEL_START cusp=6/20 multiplicity=3 time=873.830
+C51_RR_KERNEL_DONE cusp=6/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=879.120
+C51_RR_KERNEL_START cusp=6/20 multiplicity=4 time=879.130
+C51_RR_KERNEL_DONE cusp=6/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=884.940
+C51_RR_KERNEL_START cusp=6/20 multiplicity=5 time=884.940
+C51_RR_KERNEL_DONE cusp=6/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=891.050
+C51_RR_KERNEL_START cusp=6/20 multiplicity=6 time=891.050
+C51_RR_KERNEL_DONE cusp=6/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=896.780
+C51_RR_KERNEL_START cusp=6/20 multiplicity=7 time=896.780
+C51_RR_KERNEL_DONE cusp=6/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=902.830
+C51_RR_KERNEL_START cusp=7/20 multiplicity=1 time=902.830
+C51_RR_KERNEL_DONE cusp=7/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=907.410
+C51_RR_KERNEL_START cusp=7/20 multiplicity=2 time=907.410
+C51_RR_KERNEL_DONE cusp=7/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=912.710
+C51_RR_KERNEL_START cusp=7/20 multiplicity=3 time=912.710
+C51_RR_KERNEL_DONE cusp=7/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=918.060
+C51_RR_KERNEL_START cusp=7/20 multiplicity=4 time=918.060
+C51_RR_KERNEL_DONE cusp=7/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=923.880
+C51_RR_KERNEL_START cusp=7/20 multiplicity=5 time=923.880
+C51_RR_KERNEL_DONE cusp=7/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=929.920
+C51_RR_KERNEL_START cusp=7/20 multiplicity=6 time=929.920
+C51_RR_KERNEL_DONE cusp=7/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=935.910
+C51_RR_KERNEL_START cusp=7/20 multiplicity=7 time=935.910
+C51_RR_KERNEL_DONE cusp=7/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=941.830
+C51_RR_KERNEL_START cusp=8/20 multiplicity=1 time=941.830
+C51_RR_KERNEL_DONE cusp=8/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=946.640
+C51_RR_KERNEL_START cusp=8/20 multiplicity=2 time=946.640
+C51_RR_KERNEL_DONE cusp=8/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=952.150
+C51_RR_KERNEL_START cusp=8/20 multiplicity=3 time=952.150
+C51_RR_KERNEL_DONE cusp=8/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=957.860
+C51_RR_KERNEL_START cusp=8/20 multiplicity=4 time=957.860
+C51_RR_KERNEL_DONE cusp=8/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=963.800
+C51_RR_KERNEL_START cusp=8/20 multiplicity=5 time=963.800
+C51_RR_KERNEL_DONE cusp=8/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=969.760
+C51_RR_KERNEL_START cusp=8/20 multiplicity=6 time=969.760
+C51_RR_KERNEL_DONE cusp=8/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=975.720
+C51_RR_KERNEL_START cusp=8/20 multiplicity=7 time=975.720
+C51_RR_KERNEL_DONE cusp=8/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=981.420
+C51_RR_KERNEL_START cusp=9/20 multiplicity=1 time=981.420
+C51_RR_KERNEL_DONE cusp=9/20 multiplicity=1 kernel_dim=29 rank_on_U=4 time=985.960
+C51_RR_KERNEL_START cusp=10/20 multiplicity=1 time=985.960
+C51_RR_KERNEL_DONE cusp=10/20 multiplicity=1 kernel_dim=29 rank_on_U=4 time=990.220
+C51_RR_KERNEL_START cusp=11/20 multiplicity=1 time=990.220
+C51_RR_KERNEL_DONE cusp=11/20 multiplicity=1 kernel_dim=29 rank_on_U=4 time=994.690
+C51_RR_KERNEL_START cusp=12/20 multiplicity=1 time=994.690
+C51_RR_KERNEL_DONE cusp=12/20 multiplicity=1 kernel_dim=29 rank_on_U=4 time=999.070
+C51_RR_KERNEL_START cusp=13/20 multiplicity=1 time=999.070
+C51_RR_KERNEL_DONE cusp=13/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=1003.740
+C51_RR_KERNEL_START cusp=13/20 multiplicity=2 time=1003.740
+C51_RR_KERNEL_DONE cusp=13/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=1009.130
+C51_RR_KERNEL_START cusp=13/20 multiplicity=3 time=1009.130
+C51_RR_KERNEL_DONE cusp=13/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=1014.280
+C51_RR_KERNEL_START cusp=13/20 multiplicity=4 time=1014.280
+C51_RR_KERNEL_DONE cusp=13/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=1020.420
+C51_RR_KERNEL_START cusp=13/20 multiplicity=5 time=1020.420
+C51_RR_KERNEL_DONE cusp=13/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=1026.500
+C51_RR_KERNEL_START cusp=13/20 multiplicity=6 time=1026.500
+C51_RR_KERNEL_DONE cusp=13/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=1032.220
+C51_RR_KERNEL_START cusp=13/20 multiplicity=7 time=1032.220
+C51_RR_KERNEL_DONE cusp=13/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=1038.040
+C51_RR_KERNEL_START cusp=14/20 multiplicity=1 time=1038.040
+C51_RR_KERNEL_DONE cusp=14/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=1042.900
+C51_RR_KERNEL_START cusp=14/20 multiplicity=2 time=1042.900
+C51_RR_KERNEL_DONE cusp=14/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=1048.340
+C51_RR_KERNEL_START cusp=14/20 multiplicity=3 time=1048.340
+C51_RR_KERNEL_DONE cusp=14/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=1053.450
+C51_RR_KERNEL_START cusp=14/20 multiplicity=4 time=1053.450
+C51_RR_KERNEL_DONE cusp=14/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=1059.350
+C51_RR_KERNEL_START cusp=14/20 multiplicity=5 time=1059.350
+C51_RR_KERNEL_DONE cusp=14/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=1065.320
+C51_RR_KERNEL_START cusp=14/20 multiplicity=6 time=1065.320
+C51_RR_KERNEL_DONE cusp=14/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=1071.310
+C51_RR_KERNEL_START cusp=14/20 multiplicity=7 time=1071.310
+C51_RR_KERNEL_DONE cusp=14/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=1077.410
+C51_RR_KERNEL_START cusp=15/20 multiplicity=1 time=1077.410
+C51_RR_KERNEL_DONE cusp=15/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=1081.950
+C51_RR_KERNEL_START cusp=15/20 multiplicity=2 time=1081.950
+C51_RR_KERNEL_DONE cusp=15/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=1087.340
+C51_RR_KERNEL_START cusp=15/20 multiplicity=3 time=1087.340
+C51_RR_KERNEL_DONE cusp=15/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=1092.730
+C51_RR_KERNEL_START cusp=15/20 multiplicity=4 time=1092.730
+C51_RR_KERNEL_DONE cusp=15/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=1098.680
+C51_RR_KERNEL_START cusp=15/20 multiplicity=5 time=1098.680
+C51_RR_KERNEL_DONE cusp=15/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=1104.560
+C51_RR_KERNEL_START cusp=15/20 multiplicity=6 time=1104.560
+C51_RR_KERNEL_DONE cusp=15/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=1110.490
+C51_RR_KERNEL_START cusp=15/20 multiplicity=7 time=1110.490
+C51_RR_KERNEL_DONE cusp=15/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=1116.450
+C51_RR_KERNEL_START cusp=16/20 multiplicity=1 time=1116.450
+C51_RR_KERNEL_DONE cusp=16/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=1121.020
+C51_RR_KERNEL_START cusp=16/20 multiplicity=2 time=1121.020
+C51_RR_KERNEL_DONE cusp=16/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=1126.230
+C51_RR_KERNEL_START cusp=16/20 multiplicity=3 time=1126.230
+C51_RR_KERNEL_DONE cusp=16/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=1131.450
+C51_RR_KERNEL_START cusp=16/20 multiplicity=4 time=1131.450
+C51_RR_KERNEL_DONE cusp=16/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=1137.440
+C51_RR_KERNEL_START cusp=16/20 multiplicity=5 time=1137.440
+C51_RR_KERNEL_DONE cusp=16/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=1143.240
+C51_RR_KERNEL_START cusp=16/20 multiplicity=6 time=1143.240
+C51_RR_KERNEL_DONE cusp=16/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=1148.990
+C51_RR_KERNEL_START cusp=16/20 multiplicity=7 time=1148.990
+C51_RR_KERNEL_DONE cusp=16/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=1154.810
+C51_RR_KERNEL_START cusp=17/20 multiplicity=1 time=1154.810
+C51_RR_KERNEL_DONE cusp=17/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=1159.430
+C51_RR_KERNEL_START cusp=17/20 multiplicity=2 time=1159.430
+C51_RR_KERNEL_DONE cusp=17/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=1164.710
+C51_RR_KERNEL_START cusp=17/20 multiplicity=3 time=1164.710
+C51_RR_KERNEL_DONE cusp=17/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=1170.000
+C51_RR_KERNEL_START cusp=17/20 multiplicity=4 time=1170.000
+C51_RR_KERNEL_DONE cusp=17/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=1175.700
+C51_RR_KERNEL_START cusp=17/20 multiplicity=5 time=1175.700
+C51_RR_KERNEL_DONE cusp=17/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=1181.730
+C51_RR_KERNEL_START cusp=17/20 multiplicity=6 time=1181.730
+C51_RR_KERNEL_DONE cusp=17/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=1187.390
+C51_RR_KERNEL_START cusp=17/20 multiplicity=7 time=1187.390
+C51_RR_KERNEL_DONE cusp=17/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=1193.240
+C51_RR_KERNEL_START cusp=18/20 multiplicity=1 time=1193.240
+C51_RR_KERNEL_DONE cusp=18/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=1198.090
+C51_RR_KERNEL_START cusp=18/20 multiplicity=2 time=1198.090
+C51_RR_KERNEL_DONE cusp=18/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=1203.650
+C51_RR_KERNEL_START cusp=18/20 multiplicity=3 time=1203.650
+C51_RR_KERNEL_DONE cusp=18/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=1209.280
+C51_RR_KERNEL_START cusp=18/20 multiplicity=4 time=1209.280
+C51_RR_KERNEL_DONE cusp=18/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=1215.260
+C51_RR_KERNEL_START cusp=18/20 multiplicity=5 time=1215.260
+C51_RR_KERNEL_DONE cusp=18/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=1221.250
+C51_RR_KERNEL_START cusp=18/20 multiplicity=6 time=1221.250
+C51_RR_KERNEL_DONE cusp=18/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=1226.990
+C51_RR_KERNEL_START cusp=18/20 multiplicity=7 time=1226.990
+C51_RR_KERNEL_DONE cusp=18/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=1232.710
+C51_RR_KERNEL_START cusp=19/20 multiplicity=1 time=1232.710
+C51_RR_KERNEL_DONE cusp=19/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=1237.270
+C51_RR_KERNEL_START cusp=19/20 multiplicity=2 time=1237.270
+C51_RR_KERNEL_DONE cusp=19/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=1242.610
+C51_RR_KERNEL_START cusp=19/20 multiplicity=3 time=1242.610
+C51_RR_KERNEL_DONE cusp=19/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=1247.930
+C51_RR_KERNEL_START cusp=19/20 multiplicity=4 time=1247.930
+C51_RR_KERNEL_DONE cusp=19/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=1253.980
+C51_RR_KERNEL_START cusp=19/20 multiplicity=5 time=1253.980
+C51_RR_KERNEL_DONE cusp=19/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=1259.930
+C51_RR_KERNEL_START cusp=19/20 multiplicity=6 time=1259.930
+C51_RR_KERNEL_DONE cusp=19/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=1265.780
+C51_RR_KERNEL_START cusp=19/20 multiplicity=7 time=1265.780
+C51_RR_KERNEL_DONE cusp=19/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=1271.490
+C51_RR_KERNEL_START cusp=20/20 multiplicity=1 time=1271.490
+C51_RR_KERNEL_DONE cusp=20/20 multiplicity=1 kernel_dim=32 rank_on_U=1 time=1276.190
+C51_RR_KERNEL_START cusp=20/20 multiplicity=2 time=1276.190
+C51_RR_KERNEL_DONE cusp=20/20 multiplicity=2 kernel_dim=31 rank_on_U=2 time=1281.470
+C51_RR_KERNEL_START cusp=20/20 multiplicity=3 time=1281.470
+C51_RR_KERNEL_DONE cusp=20/20 multiplicity=3 kernel_dim=30 rank_on_U=3 time=1286.700
+C51_RR_KERNEL_START cusp=20/20 multiplicity=4 time=1286.700
+C51_RR_KERNEL_DONE cusp=20/20 multiplicity=4 kernel_dim=29 rank_on_U=4 time=1292.810
+C51_RR_KERNEL_START cusp=20/20 multiplicity=5 time=1292.810
+C51_RR_KERNEL_DONE cusp=20/20 multiplicity=5 kernel_dim=28 rank_on_U=5 time=1298.780
+C51_RR_KERNEL_START cusp=20/20 multiplicity=6 time=1298.780
+C51_RR_KERNEL_DONE cusp=20/20 multiplicity=6 kernel_dim=27 rank_on_U=6 time=1304.590
+C51_RR_KERNEL_START cusp=20/20 multiplicity=7 time=1304.590
+C51_RR_KERNEL_DONE cusp=20/20 multiplicity=7 kernel_dim=26 rank_on_U=7 time=1310.380
+RANK0_CARTIER_DIRECT N=51 index=1 jet_rank=7 direct_rank=7 time=1316.160
+RANK0_CARTIER_PROGRESS N=51 tested=1000 total=173808 exceptions=0 time=1316.170
+RANK0_CARTIER_PROGRESS N=51 tested=2000 total=173808 exceptions=0 time=1316.180
+RANK0_CARTIER_PROGRESS N=51 tested=3000 total=173808 exceptions=0 time=1316.190
+RANK0_CARTIER_PROGRESS N=51 tested=4000 total=173808 exceptions=0 time=1316.200
+RANK0_CARTIER_PROGRESS N=51 tested=5000 total=173808 exceptions=0 time=1316.210
+RANK0_CARTIER_PROGRESS N=51 tested=6000 total=173808 exceptions=0 time=1316.220
+RANK0_CARTIER_PROGRESS N=51 tested=7000 total=173808 exceptions=0 time=1316.230
+RANK0_CARTIER_PROGRESS N=51 tested=8000 total=173808 exceptions=0 time=1316.240
+RANK0_CARTIER_PROGRESS N=51 tested=9000 total=173808 exceptions=0 time=1316.260
+RANK0_CARTIER_PROGRESS N=51 tested=10000 total=173808 exceptions=0 time=1316.270
+RANK0_CARTIER_PROGRESS N=51 tested=11000 total=173808 exceptions=0 time=1316.280
+RANK0_CARTIER_PROGRESS N=51 tested=12000 total=173808 exceptions=0 time=1316.290
+RANK0_CARTIER_PROGRESS N=51 tested=13000 total=173808 exceptions=0 time=1316.300
+RANK0_CARTIER_PROGRESS N=51 tested=14000 total=173808 exceptions=0 time=1316.320
+RANK0_CARTIER_PROGRESS N=51 tested=15000 total=173808 exceptions=0 time=1316.330
+RANK0_CARTIER_PROGRESS N=51 tested=16000 total=173808 exceptions=0 time=1316.340
+RANK0_CARTIER_PROGRESS N=51 tested=17000 total=173808 exceptions=0 time=1316.350
+RANK0_CARTIER_PROGRESS N=51 tested=18000 total=173808 exceptions=0 time=1316.360
+RANK0_CARTIER_PROGRESS N=51 tested=19000 total=173808 exceptions=0 time=1316.370
+RANK0_CARTIER_PROGRESS N=51 tested=20000 total=173808 exceptions=0 time=1316.380
+RANK0_CARTIER_PROGRESS N=51 tested=21000 total=173808 exceptions=0 time=1316.390
+RANK0_CARTIER_PROGRESS N=51 tested=22000 total=173808 exceptions=0 time=1316.400
+RANK0_CARTIER_PROGRESS N=51 tested=23000 total=173808 exceptions=0 time=1316.420
+RANK0_CARTIER_PROGRESS N=51 tested=24000 total=173808 exceptions=0 time=1316.430
+RANK0_CARTIER_PROGRESS N=51 tested=25000 total=173808 exceptions=0 time=1316.440
+RANK0_CARTIER_PROGRESS N=51 tested=26000 total=173808 exceptions=0 time=1316.450
+RANK0_CARTIER_PROGRESS N=51 tested=27000 total=173808 exceptions=0 time=1316.460
+RANK0_CARTIER_PROGRESS N=51 tested=28000 total=173808 exceptions=0 time=1316.470
+RANK0_CARTIER_PROGRESS N=51 tested=29000 total=173808 exceptions=0 time=1316.490
+RANK0_CARTIER_PROGRESS N=51 tested=30000 total=173808 exceptions=0 time=1316.500
+RANK0_CARTIER_PROGRESS N=51 tested=31000 total=173808 exceptions=0 time=1316.510
+RANK0_CARTIER_PROGRESS N=51 tested=32000 total=173808 exceptions=0 time=1316.520
+RANK0_CARTIER_PROGRESS N=51 tested=33000 total=173808 exceptions=0 time=1316.530
+RANK0_CARTIER_PROGRESS N=51 tested=34000 total=173808 exceptions=0 time=1316.540
+RANK0_CARTIER_PROGRESS N=51 tested=35000 total=173808 exceptions=0 time=1316.550
+RANK0_CARTIER_PROGRESS N=51 tested=36000 total=173808 exceptions=0 time=1316.560
+RANK0_CARTIER_PROGRESS N=51 tested=37000 total=173808 exceptions=0 time=1316.570
+RANK0_CARTIER_PROGRESS N=51 tested=38000 total=173808 exceptions=0 time=1316.580
+RANK0_CARTIER_PROGRESS N=51 tested=39000 total=173808 exceptions=0 time=1316.590
+RANK0_CARTIER_PROGRESS N=51 tested=40000 total=173808 exceptions=0 time=1316.610
+RANK0_CARTIER_PROGRESS N=51 tested=41000 total=173808 exceptions=0 time=1316.620
+RANK0_CARTIER_PROGRESS N=51 tested=42000 total=173808 exceptions=0 time=1316.630
+RANK0_CARTIER_PROGRESS N=51 tested=43000 total=173808 exceptions=0 time=1316.640
+RANK0_CARTIER_PROGRESS N=51 tested=44000 total=173808 exceptions=0 time=1316.650
+RANK0_CARTIER_PROGRESS N=51 tested=45000 total=173808 exceptions=0 time=1316.660
+RANK0_CARTIER_PROGRESS N=51 tested=46000 total=173808 exceptions=0 time=1316.670
+RANK0_CARTIER_PROGRESS N=51 tested=47000 total=173808 exceptions=0 time=1316.680
+RANK0_CARTIER_PROGRESS N=51 tested=48000 total=173808 exceptions=0 time=1316.700
+RANK0_CARTIER_PROGRESS N=51 tested=49000 total=173808 exceptions=0 time=1316.710
+RANK0_CARTIER_PROGRESS N=51 tested=50000 total=173808 exceptions=0 time=1316.720
+RANK0_CARTIER_PROGRESS N=51 tested=51000 total=173808 exceptions=0 time=1316.730
+RANK0_CARTIER_PROGRESS N=51 tested=52000 total=173808 exceptions=0 time=1316.740
+RANK0_CARTIER_PROGRESS N=51 tested=53000 total=173808 exceptions=0 time=1316.750
+RANK0_CARTIER_PROGRESS N=51 tested=54000 total=173808 exceptions=0 time=1316.760
+RANK0_CARTIER_PROGRESS N=51 tested=55000 total=173808 exceptions=0 time=1316.770
+RANK0_CARTIER_PROGRESS N=51 tested=56000 total=173808 exceptions=0 time=1316.780
+RANK0_CARTIER_PROGRESS N=51 tested=57000 total=173808 exceptions=0 time=1316.800
+RANK0_CARTIER_PROGRESS N=51 tested=58000 total=173808 exceptions=0 time=1316.810
+RANK0_CARTIER_PROGRESS N=51 tested=59000 total=173808 exceptions=0 time=1316.820
+RANK0_CARTIER_PROGRESS N=51 tested=60000 total=173808 exceptions=0 time=1316.830
+RANK0_CARTIER_PROGRESS N=51 tested=61000 total=173808 exceptions=0 time=1316.840
+RANK0_CARTIER_PROGRESS N=51 tested=62000 total=173808 exceptions=0 time=1316.850
+RANK0_CARTIER_PROGRESS N=51 tested=63000 total=173808 exceptions=0 time=1316.860
+RANK0_CARTIER_PROGRESS N=51 tested=64000 total=173808 exceptions=0 time=1316.880
+RANK0_CARTIER_PROGRESS N=51 tested=65000 total=173808 exceptions=0 time=1316.890
+RANK0_CARTIER_PROGRESS N=51 tested=66000 total=173808 exceptions=0 time=1316.900
+RANK0_CARTIER_PROGRESS N=51 tested=67000 total=173808 exceptions=0 time=1316.910
+RANK0_CARTIER_PROGRESS N=51 tested=68000 total=173808 exceptions=0 time=1316.920
+RANK0_CARTIER_PROGRESS N=51 tested=69000 total=173808 exceptions=0 time=1316.930
+RANK0_CARTIER_PROGRESS N=51 tested=70000 total=173808 exceptions=0 time=1316.940
+RANK0_CARTIER_PROGRESS N=51 tested=71000 total=173808 exceptions=0 time=1316.950
+RANK0_CARTIER_PROGRESS N=51 tested=72000 total=173808 exceptions=0 time=1316.960
+RANK0_CARTIER_PROGRESS N=51 tested=73000 total=173808 exceptions=0 time=1316.970
+RANK0_CARTIER_PROGRESS N=51 tested=74000 total=173808 exceptions=0 time=1316.990
+RANK0_CARTIER_PROGRESS N=51 tested=75000 total=173808 exceptions=0 time=1317.000
+RANK0_CARTIER_PROGRESS N=51 tested=76000 total=173808 exceptions=0 time=1317.010
+RANK0_CARTIER_PROGRESS N=51 tested=77000 total=173808 exceptions=0 time=1317.020
+RANK0_CARTIER_PROGRESS N=51 tested=78000 total=173808 exceptions=0 time=1317.030
+RANK0_CARTIER_PROGRESS N=51 tested=79000 total=173808 exceptions=0 time=1317.040
+RANK0_CARTIER_PROGRESS N=51 tested=80000 total=173808 exceptions=0 time=1317.050
+RANK0_CARTIER_PROGRESS N=51 tested=81000 total=173808 exceptions=0 time=1317.060
+RANK0_CARTIER_PROGRESS N=51 tested=82000 total=173808 exceptions=0 time=1317.070
+RANK0_CARTIER_PROGRESS N=51 tested=83000 total=173808 exceptions=0 time=1317.090
+RANK0_CARTIER_PROGRESS N=51 tested=84000 total=173808 exceptions=0 time=1317.100
+RANK0_CARTIER_PROGRESS N=51 tested=85000 total=173808 exceptions=0 time=1317.110
+RANK0_CARTIER_PROGRESS N=51 tested=86000 total=173808 exceptions=0 time=1317.120
+RANK0_CARTIER_PROGRESS N=51 tested=87000 total=173808 exceptions=0 time=1317.130
+RANK0_CARTIER_PROGRESS N=51 tested=88000 total=173808 exceptions=0 time=1317.140
+RANK0_CARTIER_PROGRESS N=51 tested=89000 total=173808 exceptions=0 time=1317.150
+RANK0_CARTIER_PROGRESS N=51 tested=90000 total=173808 exceptions=0 time=1317.160
+RANK0_CARTIER_PROGRESS N=51 tested=91000 total=173808 exceptions=0 time=1317.180
+RANK0_CARTIER_PROGRESS N=51 tested=92000 total=173808 exceptions=0 time=1317.190
+RANK0_CARTIER_PROGRESS N=51 tested=93000 total=173808 exceptions=0 time=1317.200
+RANK0_CARTIER_PROGRESS N=51 tested=94000 total=173808 exceptions=0 time=1317.210
+RANK0_CARTIER_PROGRESS N=51 tested=95000 total=173808 exceptions=0 time=1317.220
+RANK0_CARTIER_PROGRESS N=51 tested=96000 total=173808 exceptions=0 time=1317.230
+RANK0_CARTIER_PROGRESS N=51 tested=97000 total=173808 exceptions=0 time=1317.240
+RANK0_CARTIER_PROGRESS N=51 tested=98000 total=173808 exceptions=0 time=1317.260
+RANK0_CARTIER_PROGRESS N=51 tested=99000 total=173808 exceptions=0 time=1317.270
+RANK0_CARTIER_PROGRESS N=51 tested=100000 total=173808 exceptions=0 time=1317.280
+RANK0_CARTIER_PROGRESS N=51 tested=101000 total=173808 exceptions=0 time=1317.290
+RANK0_CARTIER_PROGRESS N=51 tested=102000 total=173808 exceptions=0 time=1317.300
+RANK0_CARTIER_PROGRESS N=51 tested=103000 total=173808 exceptions=0 time=1317.310
+RANK0_CARTIER_PROGRESS N=51 tested=104000 total=173808 exceptions=0 time=1317.330
+RANK0_CARTIER_PROGRESS N=51 tested=105000 total=173808 exceptions=0 time=1317.340
+RANK0_CARTIER_PROGRESS N=51 tested=106000 total=173808 exceptions=0 time=1317.350
+RANK0_CARTIER_PROGRESS N=51 tested=107000 total=173808 exceptions=0 time=1317.360
+RANK0_CARTIER_PROGRESS N=51 tested=108000 total=173808 exceptions=0 time=1317.370
+RANK0_CARTIER_PROGRESS N=51 tested=109000 total=173808 exceptions=0 time=1317.380
+RANK0_CARTIER_PROGRESS N=51 tested=110000 total=173808 exceptions=0 time=1317.390
+RANK0_CARTIER_PROGRESS N=51 tested=111000 total=173808 exceptions=0 time=1317.400
+RANK0_CARTIER_PROGRESS N=51 tested=112000 total=173808 exceptions=0 time=1317.420
+RANK0_CARTIER_PROGRESS N=51 tested=113000 total=173808 exceptions=0 time=1317.430
+RANK0_CARTIER_PROGRESS N=51 tested=114000 total=173808 exceptions=0 time=1317.440
+RANK0_CARTIER_PROGRESS N=51 tested=115000 total=173808 exceptions=0 time=1317.450
+RANK0_CARTIER_PROGRESS N=51 tested=116000 total=173808 exceptions=0 time=1317.460
+RANK0_CARTIER_PROGRESS N=51 tested=117000 total=173808 exceptions=0 time=1317.470
+RANK0_CARTIER_PROGRESS N=51 tested=118000 total=173808 exceptions=0 time=1317.480
+RANK0_CARTIER_PROGRESS N=51 tested=119000 total=173808 exceptions=0 time=1317.490
+RANK0_CARTIER_PROGRESS N=51 tested=120000 total=173808 exceptions=0 time=1317.500
+RANK0_CARTIER_PROGRESS N=51 tested=121000 total=173808 exceptions=0 time=1317.510
+RANK0_CARTIER_PROGRESS N=51 tested=122000 total=173808 exceptions=0 time=1317.520
+RANK0_CARTIER_PROGRESS N=51 tested=123000 total=173808 exceptions=0 time=1317.530
+RANK0_CARTIER_PROGRESS N=51 tested=124000 total=173808 exceptions=0 time=1317.550
+RANK0_CARTIER_PROGRESS N=51 tested=125000 total=173808 exceptions=0 time=1317.560
+RANK0_CARTIER_PROGRESS N=51 tested=126000 total=173808 exceptions=0 time=1317.570
+RANK0_CARTIER_PROGRESS N=51 tested=127000 total=173808 exceptions=0 time=1317.580
+RANK0_CARTIER_PROGRESS N=51 tested=128000 total=173808 exceptions=0 time=1317.590
+RANK0_CARTIER_PROGRESS N=51 tested=129000 total=173808 exceptions=0 time=1317.600
+RANK0_CARTIER_PROGRESS N=51 tested=130000 total=173808 exceptions=0 time=1317.620
+RANK0_CARTIER_PROGRESS N=51 tested=131000 total=173808 exceptions=0 time=1317.630
+RANK0_CARTIER_PROGRESS N=51 tested=132000 total=173808 exceptions=0 time=1317.640
+RANK0_CARTIER_PROGRESS N=51 tested=133000 total=173808 exceptions=0 time=1317.650
+RANK0_CARTIER_PROGRESS N=51 tested=134000 total=173808 exceptions=0 time=1317.660
+RANK0_CARTIER_PROGRESS N=51 tested=135000 total=173808 exceptions=0 time=1317.670
+RANK0_CARTIER_PROGRESS N=51 tested=136000 total=173808 exceptions=0 time=1317.690
+RANK0_CARTIER_PROGRESS N=51 tested=137000 total=173808 exceptions=0 time=1317.700
+RANK0_CARTIER_PROGRESS N=51 tested=138000 total=173808 exceptions=0 time=1317.710
+RANK0_CARTIER_PROGRESS N=51 tested=139000 total=173808 exceptions=0 time=1317.720
+RANK0_CARTIER_PROGRESS N=51 tested=140000 total=173808 exceptions=0 time=1317.730
+RANK0_CARTIER_PROGRESS N=51 tested=141000 total=173808 exceptions=0 time=1317.740
+RANK0_CARTIER_PROGRESS N=51 tested=142000 total=173808 exceptions=0 time=1317.760
+RANK0_CARTIER_PROGRESS N=51 tested=143000 total=173808 exceptions=0 time=1317.770
+RANK0_CARTIER_PROGRESS N=51 tested=144000 total=173808 exceptions=0 time=1317.780
+RANK0_CARTIER_PROGRESS N=51 tested=145000 total=173808 exceptions=0 time=1317.790
+RANK0_CARTIER_PROGRESS N=51 tested=146000 total=173808 exceptions=0 time=1317.800
+RANK0_CARTIER_PROGRESS N=51 tested=147000 total=173808 exceptions=0 time=1317.810
+RANK0_CARTIER_PROGRESS N=51 tested=148000 total=173808 exceptions=0 time=1317.820
+RANK0_CARTIER_PROGRESS N=51 tested=149000 total=173808 exceptions=0 time=1317.830
+RANK0_CARTIER_PROGRESS N=51 tested=150000 total=173808 exceptions=0 time=1317.850
+RANK0_CARTIER_PROGRESS N=51 tested=151000 total=173808 exceptions=0 time=1317.860
+RANK0_CARTIER_PROGRESS N=51 tested=152000 total=173808 exceptions=0 time=1317.870
+RANK0_CARTIER_PROGRESS N=51 tested=153000 total=173808 exceptions=0 time=1317.880
+RANK0_CARTIER_PROGRESS N=51 tested=154000 total=173808 exceptions=0 time=1317.890
+RANK0_CARTIER_PROGRESS N=51 tested=155000 total=173808 exceptions=0 time=1317.910
+RANK0_CARTIER_PROGRESS N=51 tested=156000 total=173808 exceptions=0 time=1317.920
+RANK0_CARTIER_PROGRESS N=51 tested=157000 total=173808 exceptions=0 time=1317.930
+RANK0_CARTIER_PROGRESS N=51 tested=158000 total=173808 exceptions=0 time=1317.940
+RANK0_CARTIER_PROGRESS N=51 tested=159000 total=173808 exceptions=0 time=1317.950
+RANK0_CARTIER_PROGRESS N=51 tested=160000 total=173808 exceptions=0 time=1317.960
+RANK0_CARTIER_PROGRESS N=51 tested=161000 total=173808 exceptions=0 time=1317.970
+RANK0_CARTIER_PROGRESS N=51 tested=162000 total=173808 exceptions=0 time=1317.980
+RANK0_CARTIER_PROGRESS N=51 tested=163000 total=173808 exceptions=0 time=1317.990
+RANK0_CARTIER_PROGRESS N=51 tested=164000 total=173808 exceptions=0 time=1318.010
+RANK0_CARTIER_PROGRESS N=51 tested=165000 total=173808 exceptions=0 time=1318.020
+RANK0_CARTIER_PROGRESS N=51 tested=166000 total=173808 exceptions=0 time=1318.030
+RANK0_CARTIER_PROGRESS N=51 tested=167000 total=173808 exceptions=0 time=1318.040
+RANK0_CARTIER_PROGRESS N=51 tested=168000 total=173808 exceptions=0 time=1318.050
+RANK0_CARTIER_PROGRESS N=51 tested=169000 total=173808 exceptions=0 time=1318.060
+RANK0_CARTIER_PROGRESS N=51 tested=170000 total=173808 exceptions=0 time=1318.070
+RANK0_CARTIER_PROGRESS N=51 tested=171000 total=173808 exceptions=0 time=1318.080
+RANK0_CARTIER_PROGRESS N=51 tested=172000 total=173808 exceptions=0 time=1318.090
+RANK0_CARTIER_PROGRESS N=51 tested=173000 total=173808 exceptions=0 time=1318.100
+RANK0_CARTIER_DONE N=51 D=7 tested=173808 total=173808 exceptions=0 complete=true time=1318.140

@@ -1,0 +1,12 @@
+Loading "independent/helpers7.m"
+genus 21, deg j 480
+base point has exact order 33
+cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 5, 5, 10 ]
+noncuspidal place counts [ 0, 0, 0, 0, 2, 20, 30 ] (9.550 s)
+class group [ 15, 42373650, 0 ] (42.920 s)
+H (reductions of Q-rational cuspidal divisors): [ 5, 42373650 ], order 211868250, DEHMZ order 211868250
+effective cuspidal deg 7: 25220 (liftable 25100, classes 25100); nonliftable with class in H outside rational cuspidal classes: 0
+P5+C2 in H: 0 of 120; P6+C1 in H: 0 of 200; P7 in H (not rational cuspidal class): 10 of 30
+residue degrees at 2 of the known point: [ 7 ]
+septic places covered by translates of the known point: 10; all P7 classes in H covered: true
+X133_CHECK_DONE (44.250 s)
